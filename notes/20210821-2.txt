@@ -1,0 +1,19 @@
+Items:
+- Russian item names have been changed back to English (not descriptions)
+- Fixed Satanic showing scaling when it can't be upgraded
+- Fixed Dragon Scale not being purchasable
+- Charged Essence can now show up in the shop (can't be purchased)
+- Fixed missing items in the shop
+
+Map:
+- Fixed missing nav mesh on dire spawn
+
+Heroes:
+- Added Snapfire & Hoodwink
+
+Gameplay:
+- Middle Boss (Invoker) scaling changed: from +500 damage per player > +100, from +100k hp per player > +150k
+
+Balance:
+Winter Wyvern:
+- Arctic Burn percentage of max health decreased from 6 7 8 9 > 1.0 1.25 1.5 1.75 2.0 2.25 2.5%
