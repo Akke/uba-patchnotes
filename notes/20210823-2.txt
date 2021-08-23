@@ -2,7 +2,7 @@ Bosses:
 - Reduced bosses true strike chance from 100% > 0/100%/100%
 - Roshan removed true strike (he's supposed to be easier)
 - Added "true strike chance" to the boss ability tooltip
-- Added new ability to bosses "Kraken Shell" (not Invoker)
+- Added new ability to bosses "Boss Shell" (not Invoker)
 - Improved Invoker boss tooltips
 
 Bugs Fixes:
