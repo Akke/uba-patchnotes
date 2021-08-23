@@ -1,0 +1,20 @@
+Bosses:
+- Reduced bosses true strike chance from 100% > 0/100%/100%
+- Roshan removed true strike (he's supposed to be easier)
+- Added "true strike chance" to the boss ability tooltip
+- Added new ability to bosses "Kraken Shell" (not Invoker)
+- Improved Invoker boss tooltips
+
+Bugs Fixes:
+- T5 neutral items not dropping from bosses
+
+Gameplay:
+- Game is now paused at the start
+- Increased the maximum respawn time from 30 seconds > 50 seconds
+
+Items:
+- Curse Bearer active regeneration reduction increased from -50 -55 -65 > -50 -75 -100
+- Tango health regeneration decreased from 30.0 > 15.0
+- Clarity mana regeneration decreased from 50.0 > 33.0
+- Salve health regeneration decreased from 115.0 > 57.5
+- Neutral items will now be put into the neutral item slot by default (even if you're 6 slotted), but can still be used in other slots. You can't move them into the neutral slot yourself however.
