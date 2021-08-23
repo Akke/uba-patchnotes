@@ -1,7 +1,7 @@
 Items:
 - Removed Cloak of Flames (problematic due to our camp structure, allows for overpulling without spending gold)
 - Removed Ballista
-- Monkey King Bar bonus magical damage decreased from 70 140 210 280 > 70
+- Monkey King Bar bonus magical damage decreased from 70 140 210 280 > 50 100 150 200
 - Bloodstone active regen decreased from 30% > 15% of max mana
 
 Balance:
