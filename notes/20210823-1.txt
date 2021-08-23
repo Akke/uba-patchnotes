@@ -1,0 +1,7 @@
+Balance:
+- A lot of talents have been reworked/fixed from the 7.30 update.
+- A lot of skills have had their values scaled/fixed from the 7.30 update.
+
+Items:
+- Added new item Blade of Midas (upgrades Hand of Midas)
+- Added new item Golden Crusader (upgrades Blade of Midas)
