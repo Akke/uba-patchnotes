@@ -7,6 +7,7 @@ Gameplay:
 - Disconnected players will now be put in the spectator area during duel
 - Duel cycle time increased from 3 minutes to 4 minutes (duel every 4 minutes instead of 3)
 - There is now a 60 second pre-game time
+- Killing a boss of the opposite team will now yield the enemy team twice the charged essence.
 
 Balance:
 Enigma:
