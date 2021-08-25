@@ -40,3 +40,10 @@ Techies:
 - Remote Mines damage aghanims changed from 450 600 750 900 1200 1500 1800 > 550 750 950 1150 1350 1550 1750
 - Remote Mines mana cost decreased from 200 240 300 380 500 640 760 > 140 200 260 320 380 440 500
 - Remote Mines cooldown decreased from 10 > 9
+
+Shadow Fiend:
+- Necromastery damage per soul increased from 2 > 1 2 3 4 5 6 7
+- Shadowraze damage increased from 70 110 150 180 220 270 310 > 90 160 230 300 370 440 510
+- Shadowraze stack bonus damage increased from 50 > 50 60 70 80 90 100 110
+- Shadowraze cooldown decreased from 14 > 11
+- Shadowraze mana cost increased from 95 > 80 85 90 95 100 105 110
