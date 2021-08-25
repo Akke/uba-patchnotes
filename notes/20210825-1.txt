@@ -9,6 +9,7 @@ Gameplay:
 - There is now a 60 second pre-game time
 - Killing a boss of the opposite team will now yield the enemy team twice the charged essence.
 - Tome of Knowledge now becomes purchasable every 4 minutes (instead of 10-11 minutes).
+- Creeps now have a custom AI that won't aggro you if you get too close, only if you attack them and they also chase you less.
 
 Items:
 - Reduced quelling fury cleave range
