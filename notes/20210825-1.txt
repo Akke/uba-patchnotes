@@ -5,7 +5,8 @@ Bug Fixes:
 Gameplay:
 - The amount of required kills to win the game per team is now 10 per connected player
 - Disconnected players will now be put in the spectator area during duel
-- Duel cycle time increased from 3 minutes to 5 minutes (duel every 5 minutes instead of 3)
+- Duel cycle time increased from 3 minutes to 4 minutes (duel every 4 minutes instead of 3)
+- Runes now follow vanilla logic
 
 Balance:
 Enigma:
