@@ -10,6 +10,9 @@ Gameplay:
 - Killing a boss of the opposite team will now yield the enemy team twice the charged essence.
 - Tome of Knowledge now becomes purchasable every 4 minutes (instead of 10-11 minutes).
 
+Items:
+- Reduced quelling fury cleave range
+
 Balance:
 Enigma:
 - Demonic conversion cooldown decreased from 50 45 40 35 > 50 40 30 20
