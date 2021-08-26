@@ -75,3 +75,6 @@ Huskar:
 
 Venomancer:
 - Added Plague Ward scaling up to level 7
+
+Doom:
+- Devour can now target creeps of any level
