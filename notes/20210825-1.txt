@@ -66,3 +66,6 @@ Shadow Fiend:
 
 Huskar:
 - Life Break can no longer target bosses
+
+Venomancer:
+- Added Plague Ward scaling up to level 7
