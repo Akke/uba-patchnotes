@@ -15,6 +15,12 @@ Gameplay:
 - Increased movement speed limit from 550 > 725
 - If the difference in networth between the teams is more than 50k, the losing team will get free stats and level up mangos, as well as a 10% increase in gold from all sources per stack (you gain 1 stack per 50k gold deficit)
 
+Bosses:
+Roshan:
+- BaT decreased from 2.0 > 1.5
+- Health gain increased from 25000 > 50000
+- Armor gain increased from 10 > 20
+
 Map:
 - Reworked big parts of the map to allow for better camp structure
 - Replaced old camps that no one ever used, with newer camps
