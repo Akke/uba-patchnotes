@@ -29,6 +29,12 @@ Lantern of Perish:
 - Damage at the end of the duration now also deals x2.0 of your primary attribute
 - The debuff will now be properly deflected by linkens/lotus
 
+Spiked Armor:
+- Tier 3 all stats increased from 20 > 25
+
+Kings Guard:
+- All stats increased from 0/20/40 > 0/25/50
+
 Balance:
 Enigma:
 - Demonic conversion cooldown decreased from 50 45 40 35 > 50 40 30 20
@@ -78,3 +84,11 @@ Venomancer:
 
 Doom:
 - Devour can now target creeps of any level
+
+Necrophos:
+- Reapers Scythe mana cost decreased from 175 340 500 750 900 1100 1300 > 175 225 275 325 375 425 475
+
+Clinkz:
+- Added Death Pact scaling to level 7
+- Fixed Burning Army
+- Searing Arrows talent damage decreased from 110 > 30
