@@ -13,6 +13,7 @@ Gameplay:
 - Tome of Knowledge now becomes purchasable every 4 minutes (instead of 10-11 minutes).
 - Creeps now have a custom AI that won't aggro you if you get too close, only if you attack them and they also chase you less
 - Increased movement speed limit from 550 > 725
+- If the difference in networth between the teams is more than 50k, the losing team will get free stats and level up mangos, as well as a 10% increase in gold from all sources per stack (you gain 1 stack per 50k gold deficit)
 
 Map:
 - Reworked big parts of the map to allow for better camp structure
@@ -20,6 +21,8 @@ Map:
 - Dire is now a much more beautiful place!
 
 Items:
+- Added: Mango of Strength, Mango of Intellect, Mango of Agility, Extremely Good Mango and Enlightened Mango
+
 Quelling Fury:
 - Reduced cleave range
 
