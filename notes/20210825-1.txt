@@ -1,6 +1,7 @@
 Bug Fixes:
 - Fixed where it was possible to get stuck in an infinite teleport loop because you went out of duel boundary by e.g. flying
-- Demonic Conversion now only scales up to level 4, but will only be skillable once every 7 levels.
+- Demonic Conversion now only scales up to level 4, but will only be skillable once every 7 levels
+- Heaven Halberd's 2-4 tooltips broken
 
 Gameplay:
 - The amount of required kills to win the game per team is now 10 per connected player
@@ -10,6 +11,11 @@ Gameplay:
 - Killing a boss of the opposite team will now yield the enemy team twice the charged essence.
 - Tome of Knowledge now becomes purchasable every 4 minutes (instead of 10-11 minutes).
 - Creeps now have a custom AI that won't aggro you if you get too close, only if you attack them and they also chase you less.
+
+Map:
+- Reworked big parts of the map to allow for better camp structure
+- Replaced old camps that no one ever used, with newer camps
+- Dire is now a much more beautiful place!
 
 Items:
 Quelling Fury:
