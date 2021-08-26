@@ -12,7 +12,14 @@ Gameplay:
 - Creeps now have a custom AI that won't aggro you if you get too close, only if you attack them and they also chase you less.
 
 Items:
-- Reduced quelling fury cleave range
+Quelling Fury:
+- Reduced cleave range
+
+Lantern of Perish:
+- Changed 110 all stats to 200 intellect, 100 strength, 100 agility
+- Cooldown decreased from 30.0 > 20.0
+- Damage at the end of the duration now also deals x2.0 of your primary attribute
+- The debuff will now be properly deflected by linkens/lotus
 
 Balance:
 Enigma:
