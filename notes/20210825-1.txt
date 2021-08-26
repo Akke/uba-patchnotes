@@ -2,6 +2,7 @@ Bug Fixes:
 - Fixed where it was possible to get stuck in an infinite teleport loop because you went out of duel boundary by e.g. flying
 - Demonic Conversion now only scales up to level 4, but will only be skillable once every 7 levels
 - Heaven Halberd's 2-4 tooltips broken
+- Spell lifesteal now stacks with other spell lifesteal sources
 
 Gameplay:
 - The amount of required kills to win the game per team is now 10 per connected player
@@ -35,6 +36,11 @@ Spiked Armor:
 
 Kings Guard:
 - All stats increased from 0/20/40 > 0/25/50
+
+Octarine's Blessing:
+- Increased all stats from 12 20 40 > 12 25 50
+- Added new stat intellect scaling from > 12 25 50
+- Added 15/20/25% spell lifesteal 
 
 Balance:
 Enigma:
