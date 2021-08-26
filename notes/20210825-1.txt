@@ -23,6 +23,7 @@ Map:
 Items:
 - Added: Mango of Strength, Mango of Intellect, Mango of Agility, Extremely Good Mango and Enlightened Mango (these mangoes give you permanent stats and levels)
 - Added: Silver Edge upgrades
+- Added: Bloodthorn upgrades
 - Added: Gamma Orb (refresher upgrade)
 - Added the new neutral items (except Witchbane), as well as Royal Jelly
 
