@@ -18,6 +18,8 @@ Quelling Fury:
 Lantern of Perish:
 - Changed 110 all stats to 200 intellect, 100 strength, 100 agility
 - Cooldown decreased from 30.0 > 20.0
+- Duration increased from 3.0 > 4.0
+- When used on enemies they no longer become untargetable
 - Damage at the end of the duration now also deals x2.0 of your primary attribute
 - The debuff will now be properly deflected by linkens/lotus
 
