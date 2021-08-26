@@ -21,8 +21,9 @@ Map:
 - Dire is now a much more beautiful place!
 
 Items:
-- Added: Mango of Strength, Mango of Intellect, Mango of Agility, Extremely Good Mango and Enlightened Mango
+- Added: Mango of Strength, Mango of Intellect, Mango of Agility, Extremely Good Mango and Enlightened Mango (these mangoes give you permanent stats and levels)
 - Added: Silver Edge upgrades
+- Added: Gamma Orb (refresher upgrade)
 - Added the new neutral items (except Witchbane), as well as Royal Jelly
 
 Quelling Fury:
