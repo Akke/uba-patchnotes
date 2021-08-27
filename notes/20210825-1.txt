@@ -2,7 +2,7 @@ Bug Fixes:
 - Fixed where it was possible to get stuck in an infinite teleport loop because you went out of duel boundary by e.g. flying
 - Demonic Conversion now only scales up to level 4, but will only be skillable once every 7 levels
 - Heaven Halberd's 2-4 tooltips broken
-- Spell lifesteal now stacks with other spell lifesteal sources
+- Lifesteal now stacks with other lifesteal sources (both spell and attack)
 
 Gameplay:
 - The amount of required kills to win the game per team is now 10 per connected player
@@ -33,6 +33,7 @@ Items:
 - Added: Abyssal Blade upgrades
 - Added: Gamma Orb (refresher upgrade)
 - Added the new neutral items (except Witchbane), as well as Royal Jelly
+- Reskinned and Renamed Vampire Claw to Vampire Skull
 
 Quelling Fury:
 - Reduced cleave range
