@@ -32,6 +32,8 @@ Items:
 - Added: Bloodthorn upgrades
 - Added: Abyssal Blade upgrades
 - Added: Gamma Orb (refresher upgrade)
+- Removed: Black King Bar
+- Added: Black King Blade
 - Added the new neutral items (except Witchbane), as well as Royal Jelly
 - Reskinned and Renamed Vampire Claw to Vampire Skull
 
