@@ -14,6 +14,7 @@ Gameplay:
 - Creeps now have a custom AI that won't aggro you if you get too close, only if you attack them and they also chase you less
 - Increased movement speed limit from 550 > 725
 - If the difference in networth between the teams is more than 50k, the losing team will get free stats and level up mangos, as well as a 10% increase in gold from all sources per stack (you gain 1 stack per 50k gold deficit)
+- Duel now applies a soft dispell instead of a hard dispell at the beginning
 
 Bosses:
 Roshan:
