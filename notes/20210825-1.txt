@@ -36,6 +36,7 @@ Items:
 - Added: Black King Blade
 - Added the new neutral items (except Witchbane), as well as Royal Jelly
 - Reskinned and Renamed Vampire Claw to Vampire Skull
+- All Russian translations have been re-done by a native russian speaker
 
 Quelling Fury:
 - Reduced cleave range
