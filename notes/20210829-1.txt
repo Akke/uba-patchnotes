@@ -1,0 +1,12 @@
+Bug Fixes:
+- New neutrals couldn't be in the neutral slot
+- Black King Blade did not purge the caster
+- Charged Essence being sold for 6000 gold within 10 seconds of obtaining it
+
+Neutral AI:
+- No longer has flying movement
+- No longer gets stuck attacking players that can not be attacked
+
+Balance:
+Tusk:
+- Walrus Punch proc chance talent decreased from 12% > 5%
