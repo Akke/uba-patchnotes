@@ -24,6 +24,9 @@ Neutral AI:
 Map:
 - Added navmesh on the edges of the duel
 
+Items:
+- Added new item "Hourglass of Chronos"
+
 Balance:
 Following skills have been reduced to max 4 levels: Desolate, Tombstone
 
