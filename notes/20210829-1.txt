@@ -8,6 +8,7 @@ Bug Fixes:
 - Aura Items did not ignore magic immunity
 - Fixed King's Guard aura being hidden instead of visible
 - Fixed broken russian translation for mangoes
+- Fixed reincarnation/aegis not working properly in duel
 - Wards now work in the same way as neutral items
 
 Creep AI:
