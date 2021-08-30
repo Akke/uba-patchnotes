@@ -5,6 +5,7 @@ Bug Fixes:
 - Fixed several skills missing scaling
 - Fixed Surge not working on Dark Seer
 - Fixed Untouchable not working on Enchantress
+- Aura Items did not ignore magic immunity
 
 Creep AI:
 - No longer chases for longer than 7 seconds
@@ -24,3 +25,5 @@ Following skills have been reduced to max 4 levels: Desolate, Tombstone
 
 Tusk:
 - Walrus Punch proc chance talent decreased from 12% > 5%
+
+- ...and lots of other things.
