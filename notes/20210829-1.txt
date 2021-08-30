@@ -3,6 +3,8 @@ Bug Fixes:
 - Black King Blade did not purge the caster
 - Charged Essence being sold for 6000 gold within 10 seconds of obtaining it
 - Fixed several skills missing scaling
+- Fixed Surge not working on Dark Seer
+- Fixed Untouchable not working on Enchantress
 
 Creep AI:
 - No longer chases for longer than 7 seconds
