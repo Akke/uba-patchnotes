@@ -7,6 +7,7 @@ Bug Fixes:
 - Fixed Untouchable not working on Enchantress
 - Aura Items did not ignore magic immunity
 - Fixed King's Guard aura being hidden instead of visible
+- Fixed broken russian translation for mangoes
 
 Creep AI:
 - No longer chases for longer than 7 seconds
