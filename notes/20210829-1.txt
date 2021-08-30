@@ -6,6 +6,7 @@ Bug Fixes:
 - Fixed Surge not working on Dark Seer
 - Fixed Untouchable not working on Enchantress
 - Aura Items did not ignore magic immunity
+- Fixed King's Guard aura being hidden instead of visible
 
 Creep AI:
 - No longer chases for longer than 7 seconds
