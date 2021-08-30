@@ -10,6 +10,7 @@ Bug Fixes:
 - Fixed broken russian translation for mangoes
 - Fixed reincarnation/aegis not working properly in duel
 - Wards now work in the same way as neutral items
+- Fixed bosses getting stuck with force staff/hurricane pike
 
 Creep AI:
 - No longer chases for longer than 7 seconds
