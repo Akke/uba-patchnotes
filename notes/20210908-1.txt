@@ -1,10 +1,13 @@
 Bug Fixes:
 - Fixed Huskar boss burning spear not working 
 
-Gameplay:
+Bosses:
 - Boss AI has been improved
   - Changing attack target is now much smoother than before (before it would have a slight delay before attacking the new target)
   - Will change attack target if the current target becomes invulnerable or untargetable in any way (e.g. manta phasing, astral prison, etc.)
   - Will no longer keep chasing the attack target if they run out of the attack zone
   - Attack targets are now chosen based on how close they are to the boss, meaning it will target illusions, units, etc, instead of always focusing your hero
   - Will no longer cast abilities as soon as target becomes visible, but rather has a small delay before casting now
+
+Windranger:
+- Focus Fire cooldown decreased from 20 15 10 > 10 8 6
