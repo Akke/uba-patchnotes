@@ -2,6 +2,8 @@ Bug Fixes:
 - Fixed Huskar boss burning spear not working 
 
 Bosses:
+- Bosses are now considered as immovable objects 
+- All Bosses magic immunity decreased to 25% (including mid boss)
 - Boss AI has been improved
   - Changing attack target is now much smoother than before (before it would have a slight delay before attacking the new target)
   - Will change attack target if the current target becomes invulnerable or untargetable in any way (e.g. manta phasing, astral prison, etc.)
@@ -11,3 +13,6 @@ Bosses:
 
 Windranger:
 - Focus Fire cooldown decreased from 20 15 10 > 10 8 6
+
+Map:
+- Changed the middle zone area to reflect more on the new boss
