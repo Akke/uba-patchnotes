@@ -20,6 +20,7 @@ Map:
 - Improved map layout to be less empty
 - Moved Night Stalker closer to the rune
 - Added navmesh block near boss shrines so you don't get stuck teleporting
+- Reworked duel area
 
 Gameplay:
 - Drakes are no longer considered as ancients and can be dominated
