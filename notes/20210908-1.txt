@@ -2,6 +2,7 @@ Bug Fixes:
 - Fixed Huskar boss burning spear not working 
 - Fixed the blind on Hellfire Lantern debuff not stacking
 - Fixed ability sounds not playing for Lyralei and Sacred Warrior
+- Fixed Lycan wolves not summoning anything past level 4
 
 Bosses:
 - Bosses are now considered as immovable objects 
@@ -31,3 +32,7 @@ Gameplay:
 - Creep camps levels now scale with their initial spawn time instead of every 60 seconds
 - Added new camp past ancients: "immortal camp" with units that level once every 10 minutes with max level 10 (can be dominated)
 - Improved experience needed per level
+
+Balance:
+Lycan:
+- Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 55 50 45 40 35 30 25
