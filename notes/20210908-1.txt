@@ -35,4 +35,4 @@ Gameplay:
 
 Balance:
 Lycan:
-- Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 55 50 45 40 35 30 25
+- Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 50
