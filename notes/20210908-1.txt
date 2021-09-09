@@ -17,7 +17,12 @@ Windranger:
 
 Map:
 - Changed the middle zone area to reflect more on the new boss
+- Improved map layout to be less empty
+- Moved Night Stalker closer to the rune
 
 Gameplay:
-- Drakes are no longer considered as ancients
+- Drakes are no longer considered as ancients and can be dominated
 - Added 2 new abilities to every creep type
+- Reduced hard camp units from 4 to 3
+- Creep camps levels now scale with their initial spawn time instead of every 60 seconds
+- Added new camp past ancients: "immortal camp" with units that level once every 10 minutes with max level 10 (can be dominated)
