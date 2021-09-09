@@ -30,3 +30,4 @@ Gameplay:
 - Reduced hard camp units from 4 to 3
 - Creep camps levels now scale with their initial spawn time instead of every 60 seconds
 - Added new camp past ancients: "immortal camp" with units that level once every 10 minutes with max level 10 (can be dominated)
+- Improved experience needed per level
