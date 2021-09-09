@@ -20,6 +20,7 @@ Map:
 - Improved map layout to be less empty
 - Moved Night Stalker closer to the rune
 - Added navmesh block near boss shrines so you don't get stuck teleporting
+- Fixed navmesh for wards around some boss areas being too big
 - Reworked duel area
 
 Gameplay:
