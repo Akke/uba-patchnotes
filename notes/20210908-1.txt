@@ -1,6 +1,7 @@
 Bug Fixes:
 - Fixed Huskar boss burning spear not working 
 - Fixed the blind on Hellfire Lantern debuff not stacking
+- Fixed ability sounds not playing for Lyralei and Sacred Warrior
 
 Bosses:
 - Bosses are now considered as immovable objects 
