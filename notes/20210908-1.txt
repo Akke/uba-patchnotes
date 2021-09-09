@@ -17,3 +17,7 @@ Windranger:
 
 Map:
 - Changed the middle zone area to reflect more on the new boss
+
+Gameplay:
+- Drakes are no longer considered as ancients
+- Added 2 new abilities to every creep type
