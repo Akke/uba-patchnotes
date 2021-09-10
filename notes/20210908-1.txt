@@ -60,3 +60,6 @@ Bloodseeker:
 Lifestealer:
 - Added scaling for feast
 - Feast and Open Wounds can no longer target bosses
+
+Phantom Assassin:
+- Shard damage changed from pure to physical damage
