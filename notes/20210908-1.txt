@@ -2,7 +2,6 @@ Bug Fixes:
 - Fixed Huskar boss burning spear not working 
 - Fixed the blind on Hellfire Lantern debuff not stacking
 - Fixed ability sounds not playing for Lyralei and Sacred Warrior
-- Fixed Lycan wolves not summoning anything past level 4
 
 Bosses:
 - Bosses are now considered as immovable objects 
@@ -39,9 +38,9 @@ Mirror Blade:
 Balance:
 Lycan:
 - Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 50
+- Wolves can now be skilled up to level 7
 - Added new unit scaling to wolves
 
 Visage:
 - Added new unit scaling to familiars
-- Can now be skilled up to level 7
-- Added
+- Familiars can now be skilled up to level 7
