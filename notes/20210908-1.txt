@@ -35,6 +35,11 @@ Items:
 Mirror Blade:
 - Illusion created now belongs to the caster instead of the fountain (makes it work in chronosphere) but can't be controlled by any means.
 
+Hourglass of Chronos:
+- Rewind interval increased from 5 4 3 seconds > 12 10 8 seconds
+- Rewind cooldown decreased decreased from 1 2 3 > 2 2 2
+- Rewind can no longer lower any cooldown to any value below 1 second
+
 Balance:
 Lycan:
 - Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 50
