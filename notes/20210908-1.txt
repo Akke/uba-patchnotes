@@ -32,6 +32,10 @@ Gameplay:
 - Added new camp past ancients: "immortal camp" with units that level once every 10 minutes with max level 10 (can be dominated)
 - Improved experience needed per level
 
+Items:
+Mirror Blade:
+- Illusion created now belongs to the caster instead of the fountain (makes it work in chronosphere) but can't be controlled by any means.
+
 Balance:
 Lycan:
 - Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 50
