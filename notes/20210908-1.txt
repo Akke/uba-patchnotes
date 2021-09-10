@@ -2,6 +2,7 @@ Bug Fixes:
 - Fixed Huskar boss burning spear not working 
 - Fixed the blind on Hellfire Lantern debuff not stacking
 - Fixed ability sounds not playing for Lyralei and Sacred Warrior
+- Fixed infinite respawning in duel
 
 Bosses:
 - Bosses are now considered as immovable objects 
@@ -46,10 +47,12 @@ Lycan:
 - Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 50
 - Wolves can now be skilled up to level 7
 - Added new unit scaling to wolves
+- Rebalanced wolves
 
 Visage:
 - Added new unit scaling to familiars
 - Familiars can now be skilled up to level 7
+- Summon Familiars tooltip missing some attributes
 
 Slardar:
 - Bash duration decreased from 0.9 1 1.1 1.2 1.3 1.4 1.5 > 0.1
