@@ -39,3 +39,9 @@ Mirror Blade:
 Balance:
 Lycan:
 - Decreased Shapeshift cooldown from 120 110 100 90 80 70 60 > 50
+- Added new unit scaling to wolves
+
+Visage:
+- Added new unit scaling to familiars
+- Can now be skilled up to level 7
+- Added
