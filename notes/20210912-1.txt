@@ -1,0 +1,16 @@
+Bug Fix:
+- Spiked Armor not sharing cooldown with Blademail
+- Geminate Attack only scales to 4 now because it doesn't work at lvl 7
+- Fixed Akasha not scaling her stats per player
+- Fixed Sacred Warrior burning spear cast range being less than his attack range/aggro range
+- Fixed minions randomly aggroing everyone nearby when they spawn
+
+Gameplay:
+Bosses:
+- Pure damage taken is now converted to physical damage
+- Can no longer take more than 1% of their max health as damage from any damage instance
+
+Balance:
+Akasha:
+- Reduced base armor from 100 to 50
+- Increased BaT from 0.3 to 0.2
