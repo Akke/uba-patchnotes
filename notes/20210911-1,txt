@@ -1,0 +1,50 @@
+Bug Fixes:
+- Fixed Dark Seer Surge not working
+
+Items:
+- Added new item "Ultra Blink"
+
+Curse Bearer:
+- No longer uses charges
+- Active heal reduction reduced from 50 75 100 > 70%
+- Active duration decreased from 8 > 5 seconds
+- Attack Speed slow (melee) debuff increased from 25 50 75 > 50 100 150
+- Cooldown increased from 9.0 8.0 7.0 > 15.0 14.0 13.0
+
+Bloodthorn:
+- Fixed level 2 components being too expensive
+
+Spiked Mail:
+- Increased armor from 0 0 25 > 25 50 75
+- Armor increased from 16 22 26 > 16 24 32
+- Damage increased from 40 70 100 > 40 80 120
+- Reworked item cost and components
+
+Kings Guard:
+- Aura bonus Attack Speed increased from 30 50 100 > 100 150 200
+
+Shining Shivas:
+- Aura Attack Speed slow increased from -45 -90 -135 > -100 -150 -200
+- Recipe cost is now 550 gold and no longer needs chainmail to build
+
+Balance:
+Centaur Warrunner:
+- Retaliate return damage increased from 15 25 35 45 55 65 75 > 15 30 45 60 75 90 105
+- Retaliate damage from strength increased from 20 26 32 38 > 20 26 32 38 44 50 56
+
+Queen of Pain:
+- Scream of Pain max damage decreased from 550 to 525
+
+Doom:
+- Devour scaling increased
+
+Templar Assassin:
+- Fixed Psi Blades scaling
+
+Brewmaster:
+- Drunken Brawler multiplier decreased from 160 180 200 220 240 260 300 > 145 150 155 160 165 170 175
+
+Chaos Knight:
+- Reality Rift cast range decreased from 475 550 625 700 720 760 820 > 550 600 650 750
+- Chaos Bolt min stun duration decreased from 1.0 1.0 1.0 1.5 1.5 1.5 2.0 > 0.25 0.5 0.75 1.0 1.25 1.5 1.75
+- Chaos Strike lifesteal decreased from 35 40 45 50 65 70 80 > 10 15 20 25 30 35 40 (60 with talent)
