@@ -33,3 +33,7 @@ Dark Willow:
 - Shadow Realm cooldown increased from 28 26 22 20 18 15 12 > 26 25 24 23 22 21 20
 - Shadow Realm damage decreased from 150 220 300 380 460 550 650 > 60 120 180 240 300 360 420
 - Shadow Realm duration decreased from 4 seconds > 3 seconds
+
+Pudge:
+- Dismember cooldown increased from 30 25 20 18 16 14 > 30 29 28 27 26 25 24
+- Hook cooldown increased from 18 16 14 12 10 8 6 > 18 17 16 15 14 13 12
