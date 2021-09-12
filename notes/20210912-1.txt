@@ -12,6 +12,10 @@ Bug Fix:
 
 Gameplay:
 - Players now have a brief 1 second invulnerability before duel starts
+- Creep AI improved slightly
+
+Map:
+- Changed the normal creep camps slightly to allow for more breathing room
 
 Bosses:
 - Pure damage taken is now converted to physical damage
