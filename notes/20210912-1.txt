@@ -8,6 +8,7 @@ Bug Fix:
 - Fixed certain abilities being able to target bosses when they shouldn't
 - Fixed Vendetta hitting multiple times with mirror blade
 - Fixed welcome message being sent twice
+- Fixed Hourglass of Chronos passives not being removed when unequipped
 
 Gameplay:
 - Players now have a brief 1 second invulnerability before duel starts
