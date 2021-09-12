@@ -10,6 +10,9 @@ Bug Fix:
 - Fixed welcome message being sent twice
 - Fixed Hourglass of Chronos passives not being removed when unequipped
 
+Items:
+- Item Names now also show their level
+
 Gameplay:
 - Players now have a brief 1 second invulnerability before duel starts
 - Creep AI improved slightly
