@@ -24,3 +24,6 @@ Akasha:
 
 Enchantress:
 - Untouchable no longer works on bosses
+
+Undying:
+- Zombies now die instantly when attacking a boss
