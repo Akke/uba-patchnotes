@@ -10,6 +10,8 @@ Bug Fix:
 - Fixed welcome message being sent twice
 
 Gameplay:
+- Players now have a brief 1 second invulnerability before duel starts
+
 Bosses:
 - Pure damage taken is now converted to physical damage
 - Can no longer take more than 1% of their max health as damage from any damage instance
