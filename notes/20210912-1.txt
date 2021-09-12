@@ -27,3 +27,8 @@ Enchantress:
 
 Undying:
 - Zombies now die instantly when attacking a boss
+
+Dark Willow:
+- Shadow Realm cooldown increased from 28 26 22 20 18 15 12 > 28 26 22 20 19 18 17
+- Shadow Realm damage decreased from 150 220 300 380 460 550 650 > 60 120 180 240 300 360 420
+- Shadow Realm duration decreased from 4 seconds > 3 seconds
