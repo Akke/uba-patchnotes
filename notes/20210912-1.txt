@@ -7,6 +7,7 @@ Bug Fix:
 - Possibly fixed ultra blink crash
 - Fixed certain abilities being able to target bosses when they shouldn't
 - Fixed Vendetta hitting multiple times with mirror blade
+- Fixed welcome message being sent twice
 
 Gameplay:
 Bosses:
