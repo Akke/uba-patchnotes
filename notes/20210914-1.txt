@@ -1,0 +1,14 @@
+Balance:
+Tinker:
+- Shrink Ray can no longer target bosses
+
+Pugna:
+- Decrepify can no longer target bosses
+- Nether Ward duration decreased from 30 > 20 seconds
+- Cooldown increased from 35 > 45 seconds
+
+Wisp:
+- Relocate cooldown changed from 140.0 120.0 100.0 80.0 60.0 45.0 30.0 > 100.0 95.0 90.0 85.0 80.0 75.0 70.0
+
+Tusk:
+- Fixed walrus punch talent reverting back to old values
