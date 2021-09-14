@@ -1,3 +1,6 @@
+Bug Fix:
+- Fixed Gamma Orb particle and sound not playing on use
+
 Balance:
 Tinker:
 - Shrink Ray can no longer target bosses
