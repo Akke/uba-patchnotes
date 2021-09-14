@@ -22,3 +22,6 @@ Invoker:
 Undying:
 - Tombstone now scales to level 7 (zombies do not have Soul Link because it would be very OP)
 - Doubled the damage of tombstone zombies
+
+Shadow Shaman:
+- Serpent Wards now scales to level 7 (they do not have Soul Link because they're wards)
