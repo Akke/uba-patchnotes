@@ -1,5 +1,6 @@
 Bug Fix:
 - Fixed Gamma Orb particle and sound not playing on use
+- Familiar stone form not appearing on the ability bar
 
 Balance:
 Tinker:
