@@ -46,3 +46,7 @@ Nightstalker:
 Visage:
 - Fixed Gravekeepers Cloak shard not working
 - Grave Chill slow drain increased from 64 64 64 64 76 88 100 > 60 80 100 120 140 160 180
+
+Phoenix:
+- Supernova Hits to Destroy increased to 8 16 24 32 40 48 9999 and Aghs: 20 28 36 44 52 60 9999
+- Supernova stun duration max reduced from 5.0 to 3.0
