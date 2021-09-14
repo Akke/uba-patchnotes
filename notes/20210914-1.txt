@@ -15,3 +15,6 @@ Tusk:
 
 Venomancer:
 - Added Soul Link ability to Plague Ward
+
+Invoker:
+- Added Soul Link ability to Forge Spirit
