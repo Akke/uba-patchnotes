@@ -18,3 +18,7 @@ Venomancer:
 
 Invoker:
 - Added Soul Link ability to Forge Spirit
+
+Undying:
+- Tombstone now scales to level 7 (zombies do not have Soul Link because it would be very OP)
+- Doubled the damage of tombstone zombies
