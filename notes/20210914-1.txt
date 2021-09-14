@@ -2,6 +2,9 @@ Bug Fix:
 - Fixed Gamma Orb particle and sound not playing on use
 - Familiar stone form not appearing on the ability bar
 
+Gameplay:
+- Enabled Monkey King!
+
 Balance:
 Tinker:
 - Shrink Ray can no longer target bosses
@@ -39,3 +42,7 @@ Brewmaster:
 
 Nightstalker:
 - Buffed all skills
+
+Visage:
+- Fixed Gravekeepers Cloak shard not working
+- Grave Chill slow drain increased from 64 64 64 64 76 88 100 > 60 80 100 120 140 160 180
