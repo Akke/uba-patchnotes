@@ -32,3 +32,6 @@ Shadow Shaman:
 Warlock:
 - Golems now scales to level 7
 - Added Soul Link ability to Golems
+
+Brewmaster:
+- Added Soul Link ability to ultimate bears
