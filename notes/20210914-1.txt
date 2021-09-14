@@ -25,3 +25,7 @@ Undying:
 
 Shadow Shaman:
 - Serpent Wards now scales to level 7 (they do not have Soul Link because they're wards)
+
+Warlock:
+- Golems now scales to level 7
+- Added Soul Link ability to Golems
