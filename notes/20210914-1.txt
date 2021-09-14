@@ -12,3 +12,6 @@ Wisp:
 
 Tusk:
 - Fixed walrus punch talent reverting back to old values
+
+Venomancer:
+- Added Soul Link ability to Plague Ward
