@@ -35,3 +35,6 @@ Warlock:
 
 Brewmaster:
 - Added Soul Link ability to ultimate bears
+
+Nightstalker:
+- Buffed all skills
