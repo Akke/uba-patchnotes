@@ -1,0 +1,20 @@
+Bug Fixes:
+- Fixed hero kills giving an abnormal amount of gold
+- Fixed Hourglass of Chronos setting the remaining cooldown of abilities to 1 second when they're just about to go off cooldown
+- Fixed golden crusader/blade of midas multiplying the bounty per player when picked up
+
+Balance:
+Slardar:
+- Bash duration increased from 0.1 > 0.2
+
+Bloodseker:
+- Aghanims Shard has been removed
+
+Lion:
+- Mana drain slow scaling added
+
+Necrophos:
+- Heartstopper aura radius increased from 700 > 800
+
+Venomancer:
+- Decreased the model size of plague ward slightly
