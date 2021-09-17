@@ -38,6 +38,9 @@ Gameplay:
 - Hard/Ancient camps now don't spawn until 5:00
 - Normal camps now spawn at 0:10 (changed from 1:00)
 
+Map:
+- Towers and shrines have been moved to make early snowballing less forgiving and to make it easier to farm
+
 Bug Fixes:
 - Level Mango not being purchasable
 - Hopefully fixed the gold bug
