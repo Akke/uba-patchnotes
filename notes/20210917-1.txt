@@ -51,7 +51,7 @@ Bug Fixes:
 - Fixed catchup system giving out wrong mangoes
 - Fixed Akasha spawning at 10:00 instead of 20:00
 - Fixed Octarines Blessing not giving stats at final level
-- Fixed missing ability tooltips for outposts and towers
+- Fixed missing ability tooltips for outposts, the fountain and the towers
 
 UI:
 - Kills will no longer show up in the bottom left part of the HUD, instead a chat message is printed when you kill someone
