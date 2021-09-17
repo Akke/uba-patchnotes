@@ -43,6 +43,7 @@ Gameplay:
 
 Map:
 - Towers and shrines have been moved to make early snowballing less forgiving and to make it easier to farm
+- Added new shrines to middle camps
 
 Bug Fixes:
 - Level Mango not being purchasable
