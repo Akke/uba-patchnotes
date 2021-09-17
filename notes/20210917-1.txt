@@ -20,9 +20,13 @@ Items:
 
 Gameplay:
 - Outposts now can't be captured until 5 min into the game
+- Boss max damage taken decreased from 1% > 0.5% of max health
+- Soul Link no longer shares attack speed or movement speed to units
 
 Techies:
 - Added 400 mine speed talent
 
 Bug Fixes:
 - Level Mango not being purchasable
+- Hopefully fixed the gold bug
+- Fixed catchup system giving out wrong mangoes
