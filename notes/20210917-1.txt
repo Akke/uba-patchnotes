@@ -1,0 +1,28 @@
+Balance:
+Medusa:
+- Split Shot can now be skilled at level 1
+- Mana Shield Bonus Mana scaling has been added
+
+Lifestealer:
+- Open Wounds now only has 1 level
+- Feast now scales to level 7
+
+Phantom Lancer:
+- Doppleganger cooldown increased
+
+Courier:
+- Burst Speed cooldown decreased to 40 seconds
+- Burst Speed amount increased by 50
+
+Items:
+- Removed Dagon for now
+- Readers Guide XP per hit nerfed from min 32 max 200 > min 16 max 100
+
+Gameplay:
+- Outposts now can't be captured until 5 min into the game
+
+Techies:
+- Added 400 mine speed talent
+
+Bug Fixes:
+- Level Mango not being purchasable
