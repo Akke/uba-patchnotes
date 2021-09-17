@@ -30,6 +30,7 @@ Gameplay:
 - Soul Link no longer shares attack speed or movement speed to units
 - Akasha is now magic immune for the first 2 seconds while casting Sonic Cataclysm
 - Damaging bosses in any way removes smoke of deceit effect on you
+- Bosses no longer rewards you with any gold on kill
 
 Bug Fixes:
 - Level Mango not being purchasable
