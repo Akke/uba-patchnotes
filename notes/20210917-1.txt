@@ -17,6 +17,9 @@ Tinker:
 - The following items can no longer be refreshed: Gamma Orb, Black King Blade, Hourglass of Chronos, Golden Crusader, Blade of Midas
 - Rearm now has a 0.56 second cast point at all levels
 
+Shadowfiend:
+- Necromaster damage per soul decreased from 1 2 3 4 5 6 7 > 1 1 1 2 2 3 4
+
 Terrorblade:
 - Sunder cooldown changed from 120 105 90 75 60 45 30 > 100 90 80 70 60 50 40
 
