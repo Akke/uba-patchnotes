@@ -1,7 +1,12 @@
 Bosses:
+- Increased T5 neutral drop chance from 25% > 50%
+
 Sacred Warrior:
-- Burning Spear is now dispellable
+- Burning Spear is now dispellable and no longer pierces magic immunity
 - No longer drops rune of strength
+
+Night Stalker:
+- No longer drops rune of agility
 
 Roshan:
 - Now has a 50% chance at any level to drop either an aghanims scepter, aghanims shard or a refresher shard.
@@ -11,3 +16,5 @@ Bug Fixes:
 - Fixed bosses not dropping the correct amount of charged essence per level
 - Fixed Akasha's level being one level too high when scaling per player
 - Fixed Lantern of Perish not giving stats
+- Fixed bosses attacking immune enemies such as spirit remnants
+- Fixed Sacred Warrior's burning spear sometimes not being cast on the enemy
