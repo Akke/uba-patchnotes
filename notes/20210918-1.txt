@@ -18,3 +18,4 @@ Bug Fixes:
 - Fixed Lantern of Perish not giving stats
 - Fixed bosses attacking immune enemies such as spirit remnants
 - Fixed Sacred Warrior's burning spear sometimes not being cast on the enemy
+- (Possibly) Fixed creeps attacking each other in some scenarios
