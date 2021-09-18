@@ -1,0 +1,13 @@
+Bosses:
+Sacred Warrior:
+- Burning Spear is now dispellable
+- No longer drops rune of strength
+
+Roshan:
+- Now has a 50% chance at any level to drop either an aghanims scepter, aghanims shard or a refresher shard.
+
+Bug Fixes:
+- Fixed bosses going above their intended max level
+- Fixed bosses not dropping the correct amount of charged essence per level
+- Fixed Akasha's level being one level too high when scaling per player
+- Fixed Lantern of Perish not giving stats
