@@ -10,6 +10,7 @@ Night Stalker:
 
 Roshan:
 - Now has a 50% chance at any level to drop either an aghanims scepter, aghanims shard or a refresher shard.
+- Now drops edible aegis instead of regular aegis
 
 Bug Fixes:
 - Fixed bosses going above their intended max level
