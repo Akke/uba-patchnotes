@@ -26,7 +26,6 @@ Gameplay:
 - Shrine cooldown increased from 1 minute > 3 minutes
 - Shrine heal/mana regen decreased from 200 > 100
 - Shrine percentage restoration decreased from 20% > 5%
-- Shrine ability duration increased from 5 seconds > 7
 - Shrine initial cooldown increased from 1 minute > 5 minutes
 - Towers attack range increased from 700 units > 1000
 
