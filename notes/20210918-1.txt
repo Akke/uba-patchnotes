@@ -22,6 +22,7 @@ Bug Fixes:
 
 Gameplay:
 - Duel no longer awards gold when you win
+- Normal creeps gold gain per level has been doubled
 
 Balance:
 Luna:
