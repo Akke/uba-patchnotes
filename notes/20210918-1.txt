@@ -12,6 +12,9 @@ Roshan:
 - Now has a 50% chance at any level to drop either an aghanims scepter, aghanims shard or a refresher shard.
 - Now drops edible aegis instead of regular aegis
 
+Map:
+- Rearranged towers
+
 Bug Fixes:
 - Fixed bosses going above their intended max level
 - Fixed bosses not dropping the correct amount of charged essence per level
