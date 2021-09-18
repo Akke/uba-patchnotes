@@ -35,7 +35,7 @@ Gameplay:
 
 Balance:
 Luna:
-- Eclipse Cooldown increased from 70.0 65.0 60.0 55.0 50.0 45.0 40.0 > 140 130 120 110 100 90 80 70
+- Eclipse Cooldown increased from 70.0 65.0 60.0 55.0 50.0 45.0 40.0 > 140 130 120 110 100 90 80 70 60
 
 Dawnbreaker:
 - Solar Guardian cooldown increased from 120 110 100 80 60 40 > 120 110 100 90 80 70
