@@ -4,6 +4,7 @@ Bug Fixes:
 Gameplay:
 - Bosses no longer have a damage cap of 0.5% of their max health
 - Certain abilities that deal damage based on the targets health will no longer be able to damage bosses
+- Pure damage dealt to bosses is no longer converted to physical damage
 
 Balance:
 Lifestealer:
