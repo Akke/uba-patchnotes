@@ -9,6 +9,8 @@ Gameplay:
 Balance:
 Lifestealer:
 - Reworked Feast (can no longer affect bosses)
+  - Leech increased from 1.0 1.2 1.4 1.6 1.8 2.0 2.2 > 1.6 2.2 2.8 3.4 4.0 4.6 5.2%
+  - Damage from max health increased from 2.2 > 2.0 2.2 2.4 2.6 2.8 3.0 3.2%
 
 Bloodseeker:
 - Reworked Aghanim's Shard (can no longer affect bosses)
