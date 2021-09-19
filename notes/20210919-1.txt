@@ -1,0 +1,13 @@
+Bug Fixes:
+- Fixed towers having reduced range at nights
+
+Gameplay:
+- Bosses no longer have a damage cap of 0.5% of their max health
+- Certain abilities that deal damage based on the targets health will no longer be able to damage bosses
+
+Balance:
+Lifestealer:
+- Reworked Feast (can no longer affect bosses)
+
+Bloodseeker:
+- Reworked Aghanim's Shard (can no longer affect bosses)
