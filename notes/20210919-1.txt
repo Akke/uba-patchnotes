@@ -37,3 +37,12 @@ Doom:
 Items:
 Hellfire Lantern:
 - Max stacks reduced from 10 11 12 > 5 6 7
+
+Hourglass of Chronos:
+- Mana Regen Amplification decreased from 50 75 100 > 25 50 75
+
+Bloodstone of Strygwyr:
+- Mana Regen Amplification decreased from 125 150 175 > 25 50 75
+
+Trident of Depths:
+- Can now be bought up to level 3
