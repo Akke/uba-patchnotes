@@ -1,5 +1,7 @@
 Bug Fixes:
 - Fixed towers having reduced range at nights
+- Fixed illusions cleaving with battlefury boots
+- Fixed power treads switching adding stacks to Roaming Wand
 
 Gameplay:
 - Bosses no longer have a damage cap of 0.5% of their max health
