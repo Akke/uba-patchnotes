@@ -3,6 +3,7 @@ Bug Fixes:
 - Fixed illusions cleaving with battlefury boots
 - Fixed power treads switching adding stacks to Roaming Wand
 - Fixed Edible Aegis behaving incorrectly
+- Fixed being able to place wards in rosh pit
 
 Gameplay:
 - Bosses no longer have a damage cap of 0.5% of their max health
