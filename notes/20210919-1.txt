@@ -7,6 +7,7 @@ Bug Fixes:
 - Fixed blade of midas and golden crusader not multiplying bounty runes
 - Fixed duel not refreshing charges on abilities
 - Fixed Edible Gem not working
+- Fixed Shining Shiva's not affecting creeps
 
 Gameplay:
 - Bosses no longer have a damage cap of 0.5% of their max health
