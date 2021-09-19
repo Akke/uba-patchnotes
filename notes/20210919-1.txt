@@ -5,6 +5,7 @@ Bug Fixes:
 - Fixed Edible Aegis behaving incorrectly
 - Fixed being able to place wards in rosh pit
 - Fixed blade of midas and golden crusader not multiplying bounty runes
+- Fixed duel not refreshing charges on abilities
 
 Gameplay:
 - Bosses no longer have a damage cap of 0.5% of their max health
