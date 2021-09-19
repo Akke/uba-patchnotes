@@ -8,11 +8,13 @@ Bug Fixes:
 - Fixed duel not refreshing charges on abilities
 - Fixed Edible Gem not working
 - Fixed Shining Shiva's not affecting creeps
+- Fixed duel purging positive buffs on start
 
 Gameplay:
 - Bosses no longer have a damage cap of 0.5% of their max health
 - Certain abilities that deal damage based on the targets health will no longer be able to damage bosses
 - Pure damage dealt to bosses is no longer converted to physical damage
+- Duel now purges at the end
 
 Balance:
 Lifestealer:
