@@ -13,4 +13,4 @@ Lifestealer:
   - Damage from max health increased from 2.2 > 2.0 2.2 2.4 2.6 2.8 3.0 3.2%
 
 Bloodseeker:
-- Reworked Aghanim's Shard (can no longer affect bosses)
+- Enabled and reworked Aghanim's Shard upgrade (can no longer affect bosses)
