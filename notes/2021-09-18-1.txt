@@ -1,2 +1,0 @@
-Bug Fixes:
-- Hellfire Lantern procs being applied from spells
