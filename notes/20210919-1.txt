@@ -9,6 +9,7 @@ Bug Fixes:
 - Fixed Edible Gem not working
 - Fixed Shining Shiva's not affecting creeps
 - Fixed duel purging positive buffs on start
+- Fixed Sacred Warriors burning spear lasting 10 seconds instead of 3
 
 Gameplay:
 - Bosses no longer have a damage cap of 0.5% of their max health
