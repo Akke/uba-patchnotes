@@ -26,3 +26,6 @@ Tinker:
 
 Keeper of the light:
 - Fixed Will-o-wisp max level
+
+Tiny:
+- Scaled Grow
