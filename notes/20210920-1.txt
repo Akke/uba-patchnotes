@@ -8,6 +8,8 @@ Bug Fixes:
 
 Items:
 - Reduced cost of edible gem from 5000 > 2500
+- Runes can now be sold for 10000 gold
+- Added new T5 item "First Arcanist's Frozen Heart" and the special component to it "Ice Core" that drops from Creature of the Depths (can be sold for 10000 gold)
 
 Bosses:
 - Roshan no longer drops any charged essence, but has a guaranteed chance to drop an aghanims scepter or shard (50/50 for which one drops)
