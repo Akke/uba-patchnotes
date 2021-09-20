@@ -30,3 +30,6 @@ Keeper of the light:
 
 Tiny:
 - Scaled Grow
+
+Io:
+- Fixed tether range and increased the range to 1100 from 1000
