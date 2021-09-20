@@ -14,3 +14,15 @@ Bosses:
 Gameplay:
 - Removed MK until I can fix him again
 - Catchup system control interval increased from every 3 minutes > 5 minutes
+
+Balance:
+Outworld Destroyer:
+- Fixed Astral Imprisonment broken scaling on several attributes
+
+Tinker:
+- Fixed Rearm missing tooltip
+- Fixed March max level
+- Fixed Keen Teleport not scaling with Rearm
+
+Keeper of the light:
+- Fixed Will-o-wisp max level
