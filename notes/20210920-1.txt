@@ -1,0 +1,2 @@
+Bug Fixes:
+- Fixed heroes giving gold to their killer when they have consumed an edible aegis
