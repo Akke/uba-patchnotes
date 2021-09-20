@@ -14,6 +14,7 @@ Bosses:
 Gameplay:
 - Removed MK until I can fix him again
 - Catchup system control interval increased from every 3 minutes > 5 minutes
+- Reworked the hero bounty system
 
 Balance:
 Outworld Destroyer:
