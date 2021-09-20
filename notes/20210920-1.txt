@@ -4,6 +4,7 @@ Bug Fixes:
 - Fixed edible gem (unfortunately it does not detect wards)
 - Fixed Roshans stats being bugged this entire time (he was never meant to be that squishy)
 - Fixed catchup system counting disconnected players
+- Fixed attack animations being slightly de-synced on bosses (roshan was affected the worst)
 
 Items:
 - Reduced cost of edible gem from 5000 > 2500
