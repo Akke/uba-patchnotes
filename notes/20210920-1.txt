@@ -1,11 +1,16 @@
 Bug Fixes:
 - Fixed Sand Kings Ultimate having a channel time
 - Fixed edible aegis, should now work like a normal aegis (does not stack with any other type of reincarnation, sadly)
-- Fixed Gem (unfortunately it does not detect wards)
+- Fixed edible gem (unfortunately it does not detect wards)
 - Fixed Roshans stats being bugged this entire time (he was never meant to be that squishy)
+- Fixed catchup system counting disconnected players
 
 Items:
 - Reduced cost of edible gem from 5000 > 2500
 
 Bosses:
 - Roshan no longer drops any charged essence, but has a guaranteed chance to drop an aghanims scepter or shard (50/50 for which one drops)
+
+Gameplay:
+- Removed MK until I can fix him again
+- Catchup system control interval increased from every 3 minutes > 5 minutes
