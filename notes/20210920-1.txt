@@ -14,6 +14,7 @@ Items:
 - Lifesteal has been reduced by 5% on all items (not including spell lifesteal)
 - Fixed poor scaling on Trident of the Depths
 - Fixed missing movement speed on Trident of the Depths
+- Fixed level 2/3 Trident of the Depths not working
 
 Bosses:
 - Roshan no longer drops any charged essence, but has a guaranteed chance to drop an aghanims scepter or shard (50/50 for which one drops)
