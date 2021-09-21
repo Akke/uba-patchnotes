@@ -13,6 +13,7 @@ Items:
 - Added new T5 item "First Arcanist's Frozen Heart" and the special component to it "Ice Core" that drops from Creature of the Depths (can be sold for 10000 gold)
 - Lifesteal has been reduced by 5% on all items (not including spell lifesteal)
 - Fixed poor scaling on Trident of the Depths
+- Fixed missing movement speed on Trident of the Depths
 
 Bosses:
 - Roshan no longer drops any charged essence, but has a guaranteed chance to drop an aghanims scepter or shard (50/50 for which one drops)
