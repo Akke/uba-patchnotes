@@ -10,7 +10,6 @@ Bug Fixes:
 Items:
 - Reduced cost of edible gem from 5000 > 2500
 - Runes can now be sold for 10000 gold
-- Added new T5 item "First Arcanist's Frozen Heart" and the special component to it "Ice Core" that drops from Creature of the Depths (can be sold for 10000 gold)
 - Lifesteal has been reduced by 5% on all items (not including spell lifesteal)
 - Fixed poor scaling on Trident of the Depths
 - Fixed missing movement speed on Trident of the Depths
