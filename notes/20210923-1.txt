@@ -18,6 +18,15 @@ Morbid Mask:
 Refusal Blade:
 - Reworked the passive in the code, should no longer bug out during duel etc
 
+Battlefury:
+- Reworked to work for ranged heroes (uses same formula as quelling blade and battlefury boots)
+
+Quelling Fury:
+- Added chop tree ability
+
+Battlefury Boots:
+- Added chop tree ability
+
 Heroes:
 Puck:
 - Waning Rift scaling fixed
