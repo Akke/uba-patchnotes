@@ -23,9 +23,11 @@ Battlefury:
 
 Quelling Fury:
 - Added chop tree ability
+- Fixed cleave not proccing even on some melee heroes depending on angle
 
 Battlefury Boots:
 - Added chop tree ability
+- Improved cleave start/end distance
 
 Battlemages Arsenal:
 - Reworked how the additional attack works, and it should no longer interfer with Weavers Gemini Attack
