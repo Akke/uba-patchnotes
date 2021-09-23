@@ -1,0 +1,23 @@
+Bosses:
+River Boss:
+- Attack speed and armor increased
+
+Roshan:
+- Attack speed and armor increased
+
+Gameplay:
+- Roshan and CotD now reward 1000 gold when killed
+
+Items:
+Vampire Skull:
+- Damage increased from 9 > 10
+
+Morbid Mask:
+- Damage increased from 10 > 20
+
+Heroes:
+Puck:
+- Waning Rift scaling fixed
+
+Earth Spirit:
+- Fixed scaling on damage for some skills
