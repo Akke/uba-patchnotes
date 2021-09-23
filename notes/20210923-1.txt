@@ -15,6 +15,9 @@ Vampire Skull:
 Morbid Mask:
 - Damage increased from 10 > 20
 
+Refusal Blade:
+- Reworked the passive in the code, should no longer bug out during duel etc
+
 Heroes:
 Puck:
 - Waning Rift scaling fixed
