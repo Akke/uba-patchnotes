@@ -27,6 +27,9 @@ Quelling Fury:
 Battlefury Boots:
 - Added chop tree ability
 
+Battlemages Arsenal:
+- Reworked how the additional attack works, and it should no longer interfer with Weavers Gemini Attack
+
 Heroes:
 Puck:
 - Waning Rift scaling fixed
