@@ -30,7 +30,7 @@ Battlefury Boots:
 - Improved cleave start/end distance
 
 Battlemages Arsenal:
-- Reworked how the additional attack works, and it should no longer interfer with Weavers Gemini Attack
+- Reworked how the additional attack works, and it should no longer interfere with Weavers Gemini Attack
 
 Heroes:
 Puck:
