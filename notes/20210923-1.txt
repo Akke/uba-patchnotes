@@ -21,3 +21,6 @@ Puck:
 
 Earth Spirit:
 - Fixed scaling on damage for some skills
+
+Venomancer:
+- Fixed Poison Nova affecting bosses
