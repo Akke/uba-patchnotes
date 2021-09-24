@@ -47,3 +47,6 @@ Zeus:
 
 Oracle:
 - False Promise cooldown increased from 90 80 70 60 50 40 30 > 120 110 100 90 80 70 60
+
+Riki:
+- Reworked Tricks of the Trade and added a new Aghanim's Scepter upgrade
