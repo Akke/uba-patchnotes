@@ -1,0 +1,23 @@
+Balance:
+Weaver:
+- Fixed Geminate Attack scaling
+
+Underlord:
+- Atrophy Aura no longer works on bosses
+- Atrophy Aura numbers reduced by a flat 3% at max level
+- Reduced radius from 1200 > 900 (the indicator gets bugged otherwise, does not update)
+
+Riki:
+- Fixed cast range indicator not working for Tricks of the Trade
+- Fixed Tricks of the Trade being bugged around stairs
+
+Tidehunter:
+- Fixed Anchor Smash cooldown having a way too high cooldown
+
+Items:
+Veil of Atos:
+- Fixed cast radius being 1000 instead of 450 as it should be
+- Fixed cast range indicator not working
+
+Curse Bearer:
+- Removed the active ability indicator since it no longer has one
