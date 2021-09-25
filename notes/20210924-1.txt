@@ -33,3 +33,6 @@ Edible Aegis:
 
 Gameplay:
 - Intelligence spell damage scaling hardcap removed and replaced with a softcap: You can go past 50% spell amplification, but after that point you only gain half the values per intelligence.
+- Normal creeps now gain 1 armor per level
+- Hard creeps now give more gold than normal creeps and gain 2 armor per level
+- Ancient creeps armor gain increased from 1 > 3 per level
