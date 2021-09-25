@@ -36,3 +36,6 @@ Gameplay:
 - Normal creeps now gain 1 armor per level
 - Hard creeps now give more gold than normal creeps and gain 2 armor per level
 - Ancient creeps armor gain increased from 1 > 3 per level
+- Map changes to some neutral camps
+- Neutral items dropped now disappear after 1 minute if not picked up
+- Catchup mangoes now disappear after 5 minutes if not picked up
