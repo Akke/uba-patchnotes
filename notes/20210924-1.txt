@@ -14,6 +14,9 @@ Riki:
 Tidehunter:
 - Fixed Anchor Smash cooldown having a way too high cooldown
 
+Ogre Magi:
+- Fire Shield damage increased from 125 > 250 damage
+
 Items:
 Veil of Atos:
 - Fixed cast radius being 1000 instead of 450 as it should be
@@ -21,6 +24,12 @@ Veil of Atos:
 
 Curse Bearer:
 - Removed the active ability indicator since it no longer has one
+
+Octarine's Blessing:
+- Cooldown reduction increased from 28 30 32 > 30 35 40
+
+Edible Aegis:
+- Now applies the regeneration rune effect upon expiration
 
 Gameplay:
 - Intelligence spell damage scaling hardcap removed and replaced with a softcap: You can go past 50% spell amplification, but after that point you only gain half the values per intelligence.
