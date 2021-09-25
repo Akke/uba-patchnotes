@@ -43,3 +43,4 @@ Gameplay:
 - Map changes to some neutral camps
 - Neutral items dropped now disappear after 1 minute if not picked up
 - Catchup mangoes now disappear after 5 minutes if not picked up
+- Added true sight to the duel area only during the duel
