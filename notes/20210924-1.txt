@@ -21,6 +21,9 @@ Tidehunter:
 Ogre Magi:
 - Fire Shield damage increased from 125 > 250 damage
 
+Slark:
+- Essence Shift can now be leveled as normal
+
 Items:
 Veil of Atos:
 - Fixed cast radius being 1000 instead of 450 as it should be
