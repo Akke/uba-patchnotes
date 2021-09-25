@@ -1,3 +1,6 @@
+Bug Fixes:
+- Will-o-Wisp not working properly
+
 Balance:
 Weaver:
 - Fixed Geminate Attack scaling
