@@ -21,3 +21,6 @@ Veil of Atos:
 
 Curse Bearer:
 - Removed the active ability indicator since it no longer has one
+
+Gameplay:
+- Intelligence spell damage scaling hardcap removed and replaced with a softcap: You can go past 50% spell amplification, but after that point you only gain half the values per intelligence.
