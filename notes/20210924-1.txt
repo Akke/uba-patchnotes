@@ -1,5 +1,6 @@
 Bug Fixes:
 - Will-o-Wisp not working properly
+- Fixed Edible Aegis not triggering when killed by a boss or the enemy fountain
 
 Balance:
 Weaver:
