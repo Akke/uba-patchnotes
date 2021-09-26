@@ -1,0 +1,8 @@
+Map:
+- Added a new area behind the fountain for each team with smaller camps meant for supports
+  - Creeps drop 50% less gold but reward 20% more xp
+  - Creeps are much weaker and respawn every 45 seconds
+  - Creeps have a selected pool of T1 neutrals that have a higher chance to drop
+  
+Bug Fixes:
+- Fixed Wraith King's reincarnation not working properly
