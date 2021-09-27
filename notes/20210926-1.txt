@@ -10,6 +10,7 @@ Bug Fixes:
 - Fixed Dark Willow's Shadow Realm not working properly
 - Fixed not being able to put skill points into Invoker's orbs
 - Fixed neutral items not being sharable or denyable
+- Fixed the particle from curse bearer explosion playing multiple times
 
 Neutral Items:
 - Buffed all neutral items
