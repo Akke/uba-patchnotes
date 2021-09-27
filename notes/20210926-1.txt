@@ -16,6 +16,9 @@ Neutral Items:
 - Buffed all neutral items
 - Enabled ballista and illusionists cape
 
+Shop:
+- Moved Edible Gem from misc to consumables
+
 Items:
 Ultra Blink:
 - Increased explosion attribute scaling from 100 125 150% > 150 175 200%
@@ -26,9 +29,33 @@ Manta Style:
 Black King Blade:
 - Now applies a hard dispell on use
 
+Omniscient Greaves:
+- Movement Speed increased from 65 75 85 > 80 100 120
+
 Curse Bearer:
 - Separated the initial debuff amount and the decaying slow into two separate passives
   - New: Cold Attacks is now a separate passive that works on any unit (illusions, etc, wont apply it still, like skadi)
   - New: Cursed Affliction is now a separate passive with a 15 second cooldown (the debuff technically lasts for 10 seconds, so this is really a 5 second cooldown)
 - Cursed Afflictions can now only be removed by a hard dispell
 - The healing prevention from the final explosion now ignores magic immunity (but the damage does not)
+
+Hellfire Lantern:
+- Now applies a particle to the target to indicate that they're burning
+
+Mirror Blade:
+- Illusions summoned now look slightly different to be less confusing
+
+Heroes:
+Lycan:
+- Shapeshift cooldown increased from 50 > 125 110 95 80 65 50 35
+
+Sniper:
+- Assassinate cast range increased from 2000 2250 2500 2750 3000 3250 3500 > 3000
+
+Ursa:
+- Fury Swipes damage per stack increased from 8 10 12 14 16 18 20 > 10 19 28 37 46 55 64 73
+- Overpower duration increased from 15 seconds > 20
+- Owerpower cooldown decreased from 15 seconds > 12 11 10 9 8 7 6 5
+- Enrage damage reduction increased from 20 24 28 32 36 40 44% > 50%
+- Enrage status resistance increased from 0% > 50%
+- Enrage cooldown increased from 50 50 50 45 40 35 30 seconds > 50
