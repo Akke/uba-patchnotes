@@ -7,3 +7,7 @@ Map:
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
 - Fixed some items having infinite cast range
+
+Items:
+Ultra Blink:
+- Increased explosion attribute scaling from 100 125 150% > 150 175 200%
