@@ -5,6 +5,7 @@ Map:
   - Creeps have a hand picked limited pool of T1 neutrals that they can drop which are good for supports
 - Removed the shop and shrines around the corner bosses
 - Removed the middle camp shrine
+- Added a few new ward spots around the map
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
