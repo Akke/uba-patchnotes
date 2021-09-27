@@ -44,7 +44,8 @@ Hellfire Lantern:
 - Now applies a particle to the target to indicate that they're burning
 
 Mirror Blade:
-- Illusions summoned now look slightly different to be less confusing
+- Illusions summoned now look slightly different and no longer have a health bar
+- Illusions summoned are now invulnerable, untargetable and unselectable
 
 Heroes:
 Lycan:
