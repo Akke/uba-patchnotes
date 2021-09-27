@@ -27,5 +27,8 @@ Black King Blade:
 - Now applies a hard dispell on use
 
 Curse Bearer:
-- Cold Attacks is now a separate passive
-- Cursed Affliction now has a 15 second cooldown and can only be removed by hard dispells
+- Separated the initial debuff amount and the decaying slow into two separate passives
+  - New: Cold Attacks is now a separate passive that works on any unit (illusions, etc, wont apply it still, like skadi)
+  - New: Cursed Affliction is now a separate passive with a 15 second cooldown (the debuff technically lasts for 10 seconds, so this is really a 5 second cooldown)
+- Cursed Afflictions can now only be removed by a hard dispell
+- The healing prevention from the final explosion now ignores magic immunity (but the damage does not)
