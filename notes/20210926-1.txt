@@ -21,3 +21,10 @@ Ultra Blink:
 
 Manta Style:
 - Updated the tooltip to be more accurate
+
+Black King Blade:
+- Now applies a hard dispell on use
+
+Curse Bearer:
+- Cold Attacks is now a separate passive
+- Cursed Affliction now has a 15 second cooldown and can only be removed by hard dispells
