@@ -7,7 +7,17 @@ Map:
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
 - Fixed some items having infinite cast range
+- Fixed Dark Willow's Shadow Realm not working properly
+- Fixed not being able to put skill points into Invoker's orbs
+- Fixed neutral items not being sharable or denyable
+
+Neutral Items:
+- Buffed all neutral items
+- Enabled ballista and illusionists cape
 
 Items:
 Ultra Blink:
 - Increased explosion attribute scaling from 100 125 150% > 150 175 200%
+
+Manta Style:
+- Updated the tooltip to be more accurate
