@@ -6,3 +6,4 @@ Map:
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
+- Fixed some items having infinite cast range
