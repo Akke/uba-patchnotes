@@ -60,6 +60,7 @@ Mirror Blade:
 
 Blade of Midas:
 - Bounty multiplier increased from x1.5 > x3.0
+- Added a new passive: You get 10% of any damage dealt as gold, up to a max of 50 gold every 10 seconds.
 
 Golden Crusader:
 - Bounty multiplier increased from x2.0 > x5.0
