@@ -1,8 +1,8 @@
 Map:
 - Added a new area behind the fountain for each team with smaller camps meant for supports
-  - Creeps drop 50% less gold but reward 20% more xp
-  - Creeps are much weaker and respawn every 30 seconds
-  - Creeps have a hand picked limited pool of T1 neutrals that they can drop which are good for supports
+  • Creeps drop 50% less gold but reward 20% more xp
+  • Creeps are much weaker and respawn every 30 seconds
+  • Creeps have a hand picked limited pool of T1 neutrals that they can drop which are good for supports
 - Removed the shop and shrines around the corner bosses
 - Removed the middle camp shrine
 - Added a few new ward spots around the map
