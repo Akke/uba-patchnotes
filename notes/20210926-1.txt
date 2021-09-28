@@ -6,6 +6,9 @@ Map:
 - Removed the shop and shrines around the corner bosses
 - Removed the middle camp shrine
 - Added a few new ward spots around the map
+- Removed the hard camps near the top outpost
+- Removed the camps around the spawn
+- Replaced the hard camps near the corner bosses with normal camps
 
 Gameplay:
 - Bounty rune base gold value increased from 40 gold > 100 gold
