@@ -18,7 +18,7 @@ Gameplay:
 - Bosses no longer have true strike (Akasha does however)
 - Added Witchbane
 - Bosses can now drop T5 items at any level, each level increasing the chance by 25% up to 75% at level 3
-- Added new item "Aeon Shield of Tarrasque"
+- Added new item "Aeon Shield" that combines Heart of Tarrasque and Aeon Disk
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
