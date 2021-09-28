@@ -6,6 +6,12 @@ Map:
 - Removed the shop and shrines around the corner bosses
 - Removed the middle camp shrine
 - Added a few new ward spots around the map
+
+Gameplay:
+- Bounty rune base gold value increased from 40 gold > 100 gold
+- Bounty rune base experience value increased from 40 XP > 50 XP
+- Base gold per kill increased from 110 gold > 210 gold
+- Extra gold per level increased from 8 gold > 10 gold
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
@@ -52,6 +58,12 @@ Mirror Blade:
 - Illusions summoned now look slightly different and no longer have a health bar
 - Illusions summoned are now invulnerable, untargetable and unselectable
 
+Blade of Midas:
+- Bounty multiplier increased from x1.5 > x3.0
+
+Golden Crusader:
+- Bounty multiplier increased from x2.0 > x5.0
+
 Heroes:
 Lycan:
 - Shapeshift cooldown increased from 50 > 125 110 95 80 65 50 35
@@ -66,3 +78,18 @@ Ursa:
 - Enrage damage reduction increased from 20 24 28 32 36 40 44% > 50%
 - Enrage status resistance increased from 0% > 50%
 - Enrage cooldown increased from 50 50 50 45 40 35 30 seconds > 50
+
+Lion:
+- Finger of death damage increased from 600 725 850 970 1090 1250 1500 > 600 800 1000 1200 1400 1600 1800
+
+Lina:
+- Laguna blade initial damage increased from 450 650 850 1050 1250 1500 1800 > 500 700 900 1100 1300 1500 1800
+
+Earth Spirit:
+- Bolder Smash slow decreased from 80% > 50%
+- Bolder Smash damage increased from 105 170 235 300 365 430 495 > 100 200 300 400 500 600 700
+- Rolling Boulder damage increased from 80 90 100 110 120 130 140 > 100 170 240 310 380 450 520
+- Geomagnetic Grip damage increased from 50 100 150 200 250 300 400 > 100 150 200 250 300 350 400
+- Magnetize cooldown decreased from 90 85 80 75 70 65 60 > 100 90 80 70 60 50 40
+- Magnetize damage increased from 75 100 125 150 175 200 225 > 100 140 180 220 260 300 340
+- Magnetize duration increased from 3 seconds > 8 seconds
