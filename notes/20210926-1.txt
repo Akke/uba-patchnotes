@@ -15,6 +15,7 @@ Gameplay:
 - Bounty rune base experience value increased from 40 XP > 50 XP
 - Base gold per kill increased from 110 gold > 210 gold
 - Extra gold per level increased from 8 gold > 10 gold
+- Bosses no longer have true strike (Akasha does however)
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
