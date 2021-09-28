@@ -133,3 +133,6 @@ Silencer:
 
 Zeus:
 - Thundergods Wrath damage increased to 300 375 450 525 600 675 750
+
+Enigma:
+- Added Soul Link to eidolons
