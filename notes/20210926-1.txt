@@ -65,6 +65,9 @@ Blade of Midas:
 Golden Crusader:
 - Bounty multiplier increased from x2.0 > x5.0
 
+Fallen Sky:
+- Fixed the landing time not being synchronized
+
 Heroes:
 Lycan:
 - Shapeshift cooldown increased from 50 > 125 110 95 80 65 50 35
