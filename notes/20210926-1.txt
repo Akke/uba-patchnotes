@@ -16,6 +16,8 @@ Gameplay:
 - Base gold per kill increased from 110 gold > 210 gold
 - Extra gold per level increased from 8 gold > 10 gold
 - Bosses no longer have true strike (Akasha does however)
+- Added Witchbane
+- Bosses can now drop T5 items at any level, each level increasing the chance by 25% up to 75% at level 3
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
@@ -24,6 +26,7 @@ Bug Fixes:
 - Fixed not being able to put skill points into Invoker's orbs
 - Fixed neutral items not being sharable or denyable
 - Fixed the particle from curse bearer explosion playing multiple times
+- Fixed illusions causing errors when attacking enemies with spiked armor active
 
 Neutral Items:
 - Buffed all neutral items
@@ -105,3 +108,28 @@ Earth Spirit:
 Anti-mage:
 - Agh's upgrade max charges decreased from 3 > 1
 - Agh's upgrade cooldown decreased from 25 > 15
+
+Broodmother:
+- Web max charges increased by 1
+- Spiderlings damage increased to 80 160 240 320 400 480 560
+- Spiderlings cooldown decreased from 10 > 12 11 10 9 8 7 6 5
+- Added Soul Link to spiderites/spiderlings
+- Increased damage and lifesteal on insatiable hunger
+
+Death Prophet:
+- Spirit Siphon restore time decreased from 60 55 50 45 40 35 30 > 36 34 32 30 28 26 24
+- Spirit Siphon max charges decreased from 3 > 1 2 3 3 3 3 3
+
+Phantom Assassin:
+- Fan of Knives cooldown decreased from 20 > 15
+- Coup de Grace decreased from 300 350 380 420 480 520 620% > 200 250 300 350 400 450 500%
+- Stifling Dagger damage decreased from 40 55 70 95 110 125 150% > 25 40 55 75 90 105 120%
+
+Riki:
+- Smoke Screen miss chance increased from 60% > 75% at max level
+
+Silencer:
+- Last Word radius decreased from 600 > 500
+
+Zeus:
+- Thundergods Wrath damage increased to 300 375 450 525 600 675 750
