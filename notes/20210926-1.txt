@@ -80,6 +80,10 @@ Golden Crusader:
 Fallen Sky:
 - Fixed the landing time not being synchronized
 
+Abyssal Blade:
+- Bash Duration decreased from 1.5 > 1.0
+- Bash Cooldown increased from 2.3 > 3.0
+
 Heroes:
 Dazzle:
 - Bad Juju cooldown reduction increased to 26 32 38 44 50 56 62%
@@ -147,3 +151,6 @@ Enigma:
 
 Naga Siren:
 - Rip Tide damage decreased from 120 165 210 255 300 345 390 > 30 45 60 75 90 105 120
+
+Troll Warlord:
+- Whirling Axes cooldown increased from 9 seconds > 14 seconds
