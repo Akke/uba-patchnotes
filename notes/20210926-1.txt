@@ -144,3 +144,6 @@ Zeus:
 
 Enigma:
 - Added Soul Link to eidolons
+
+Naga Siren:
+- Rip Tide damage decreased from 120 165 210 255 300 345 390 > 30 45 60 75 90 105 120
