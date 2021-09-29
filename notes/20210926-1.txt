@@ -38,6 +38,10 @@ Shop:
 
 Camps:
 - Ancient respawn interval increased from 60 seconds > 90
+- Reworked normal camps:
+  • Spawn time changed from 0:10 > 0:00
+  • Respawn interval changed from 30 seconds > 60 seconds
+  • Now spawns a random group of premade creatures instead of random creatures
 
 Items:
 Ultra Blink:
