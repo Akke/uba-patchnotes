@@ -66,6 +66,9 @@ Curse Bearer:
 Hellfire Lantern:
 - Now applies a particle to the target to indicate that they're burning
 
+Trident of the Depths:
+- Added a second charged essence component to the last upgrade
+
 Mirror Blade:
 - Illusions summoned now look slightly different and no longer have a health bar
 - Illusions summoned are now invulnerable, untargetable and unselectable
