@@ -9,6 +9,7 @@ Map:
 - Removed the hard camps near the top outpost
 - Removed the camps around the spawn
 - Replaced the hard camps near the corner bosses with normal camps
+- Replaced all immortal camps with ancient camps
 
 Gameplay:
 - Bounty rune base gold value increased from 40 gold > 100 gold
@@ -160,3 +161,12 @@ Naga Siren:
 
 Troll Warlord:
 - Whirling Axes cooldown increased from 9 seconds > 14 seconds
+
+Bane:
+- Fiend's Grip cooldown decreased from 100 > 120 110 100 90 80 70 60
+
+Winter Wyvern:
+- Winters Curse duration increased from 1.25 1.50 1.75 2.0 2.25 2.50 2.75 > 4.5 4.75 5.0 5.25 5.5 5.75 6.0
+
+Spirit Breaker:
+- Charge of Darkness movement speed bonus increased from 120 135 150 175 200 225 250 > 300 325 350 375 400 425 450
