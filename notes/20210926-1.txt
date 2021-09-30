@@ -22,6 +22,7 @@ Gameplay:
 - Added new item "Mage Masher" as the hurricane pike upgrade
 - Added new items "Greater Glimmer Cape/Golden Glimmer Cape" as Eternal Shroud/Pipe/Glimmer Cape upgrades
 - Reduced the mana pool of all bosses due to witchbane
+- Creeps now drop more gold if there are less than 10 players in a game (this is to speed up games with low player counts)
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
@@ -170,3 +171,8 @@ Winter Wyvern:
 
 Spirit Breaker:
 - Charge of Darkness movement speed bonus increased from 120 135 150 175 200 225 250 > 300 325 350 375 400 425 450
+
+Doom:
+- Removed Devour and replace it with two new abilities:
+  • Eternal Damnation [Aura]: All nearby enemy heroes lose a fraction of their base damage and armor, causing doom to gain a portion of it for himself.
+  • Servants from Below [Single Target]: Deals damage, roots and disarms the unit target, while also rooting all nearby units.\nIf used on a creep Doom will instantly kill it and gain bonus gold.
