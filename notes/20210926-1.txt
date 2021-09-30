@@ -176,3 +176,6 @@ Doom:
 - Removed Devour and replace it with two new abilities:
   • Eternal Damnation [Aura]: All nearby enemy heroes lose a fraction of their base damage and armor, causing doom to gain a portion of it for himself.
   • Servants from Below [Single Target]: Deals damage, roots and disarms the unit target, while also rooting all nearby units.\nIf used on a creep Doom will instantly kill it and gain bonus gold.
+
+Tinker:
+- Max level rearm channel time reduced from 1.75 > 1.25
