@@ -33,6 +33,7 @@ Bug Fixes:
 - Fixed the particle from curse bearer explosion playing multiple times
 - Fixed illusions causing errors when attacking enemies with spiked armor active
 - Fixed the portal textures not working properly
+- Fixed Shining Shivas giving amplified healing instead of healing reduction to enemies
 
 Neutral Items:
 - Buffed all neutral items
