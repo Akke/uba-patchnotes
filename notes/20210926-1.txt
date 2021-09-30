@@ -34,6 +34,7 @@ Bug Fixes:
 - Fixed illusions causing errors when attacking enemies with spiked armor active
 - Fixed the portal textures not working properly
 - Fixed Shining Shivas giving amplified healing instead of healing reduction to enemies
+- Fixed the game not ending when the kill cap was reached
 
 Neutral Items:
 - Buffed all neutral items
