@@ -16,9 +16,11 @@ Gameplay:
 - Base gold per kill increased from 110 gold > 210 gold
 - Extra gold per level increased from 8 gold > 10 gold
 - Bosses no longer have true strike (Akasha does however)
-- Added Witchbane
 - Bosses can now drop T5 items at any level, each level increasing the chance by 25% up to 75% at level 3
 - Added new item "Aeon Shield" that combines Heart of Tarrasque and Aeon Disk
+- Added new item "Mage Masher" as the hurricane pike upgrade
+- Added new items "Greater Glimmer Cape/Golden Glimmer Cape" as Eternal Shroud/Pipe/Glimmer Cape upgrades
+- Reduced the mana pool of all bosses due to witchbane
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
@@ -28,10 +30,11 @@ Bug Fixes:
 - Fixed neutral items not being sharable or denyable
 - Fixed the particle from curse bearer explosion playing multiple times
 - Fixed illusions causing errors when attacking enemies with spiked armor active
+- Fixed the portal textures not working properly
 
 Neutral Items:
 - Buffed all neutral items
-- Enabled ballista and illusionists cape
+- Enabled ballista, illusionists cape and witchbane
 
 Shop:
 - Moved Edible Gem from misc to consumables
