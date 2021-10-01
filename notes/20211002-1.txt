@@ -48,3 +48,6 @@ Vladimir's Offering:
 
 Old Morbid Mask:
 - Removed from the game
+
+Greater/Golden Glimmer Cape:
+- Cooldown increased from 20 seconds > 30
