@@ -24,6 +24,7 @@ Gameplay:
 - Added new item "War Banner" as Vladimir/Drums upgrade
 - Reduced the mana pool of all bosses due to witchbane
 - Creeps now drop more gold if there are less than 10 players in a game (this is to speed up games with low player counts)
+- Catchup System will no longer drop more than 10 mangoes at a time
   
 Bug Fixes:
 - Fixed Wraith King's reincarnation not working properly
@@ -37,6 +38,7 @@ Bug Fixes:
 - Fixed Shining Shivas giving amplified healing instead of healing reduction to enemies
 - Fixed the game not ending when the kill cap was reached
 - Fixed missing range indicators on some aura items
+- Fixed Hellfire Lantern (Searing Afterburn), Curse Bearer (Cursed Affliction) and Mirror Blade (Mirrored Reality) working even when muted
 
 Neutral Items:
 - Buffed all neutral items
