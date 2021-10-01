@@ -1,0 +1,50 @@
+Viper:
+- Poison Attack movement speed slow per stack decreased from 6 8 10 12 15 18 20% > 3 4 5 6 7 8 10%
+- Poison Attack cooldown increased from 6.0 5.0 4.0 3.0 2.0 1.0 0.0 > 3 3 3 3 2 1 0.5
+- Poison Attack magic resistance deduction per stack reduced from 9% > 6%
+
+Sniper:
+- Headshot proc chance decreased from 40% > 20%
+
+Undying:
+- Tombstone zombie radius decreased from 1200 > 800
+- Tombstone zombie interval decreased from 4.5 4.0 3.5 3.0 2.5 2.0 1.5 > 4.0 3.75 3.5 3.25 3.0 2.75 2.5
+- Tombstone cooldown increased from 70 65 60 55 50 45 40 > 85 80 75 70 65 60 55
+
+Phantom Lancer:
+- Juxtapose max illusions decreased from 1 3 4 5 6 7 8 > 1 2 2 3 3 3 4
+- Juxtapose illusion damage increased from 16% > 32%
+
+Items:
+Mage Masher:
+- Cooldown increased from 20 > 23 seconds
+
+Hellfire Lantern:
+- Searing Afterburn no longer works on magic immune units
+
+Battlemage's Arsenal:
+- Poison Strike no longer works on magic immune units
+
+Hourglass of Chronos:
+- Spacetime Anomaly no longer works on magic immune units
+
+Omniscient Greaves:
+- Replenish Health amount decreased from 600 1200 1800 > 600 1000 1400
+- Replenish Health percentage amount decreased from 10 20 30% > 5 10 15%
+- Replenish Mana percentage amount decreased from 10 20 30% > 5 10 15%
+- Replenish Mana amount decreased from 500 1000 1500 > 500 800 1100
+
+Curse Bearer:
+- The initial frost debuff no longer applies a percentage based attack slow, now it slows by a flat 50/100/150
+- The initial frost debuff now only slows movement speed by 50% at all levels
+- The initial frost debuff now only reduces healing by 40% at all levels
+- Cursed Affliction reduction per stack increased from 4% > 5%
+
+Kings Guard:
+- All Stats increased from 0 25 50 > 10 25 50
+
+Vladimir's Offering:
+- Changed components to new morbid mask
+
+Old Morbid Mask:
+- Removed from the game
