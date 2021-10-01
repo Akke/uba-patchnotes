@@ -21,6 +21,7 @@ Gameplay:
 - Added new item "Aeon Shield" that combines Heart of Tarrasque and Aeon Disk
 - Added new item "Mage Masher" as the hurricane pike upgrade
 - Added new items "Greater Glimmer Cape/Golden Glimmer Cape" as Eternal Shroud/Pipe/Glimmer Cape upgrades
+- Added new item "War Banner" as Vladimir/Drums upgrade
 - Reduced the mana pool of all bosses due to witchbane
 - Creeps now drop more gold if there are less than 10 players in a game (this is to speed up games with low player counts)
   
@@ -35,6 +36,7 @@ Bug Fixes:
 - Fixed the portal textures not working properly
 - Fixed Shining Shivas giving amplified healing instead of healing reduction to enemies
 - Fixed the game not ending when the kill cap was reached
+- Fixed missing range indicators on some aura items
 
 Neutral Items:
 - Buffed all neutral items
