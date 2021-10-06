@@ -1,0 +1,2 @@
+Gameplay:
+- Increased max movement speed from 725 > 1000
