@@ -1,0 +1,59 @@
+Bug Fixes:
+- Fixed Rasor Eye of the Storm armor debuff working on bosses
+- Fixed health based damage abilities dealing critical damage against bosses
+- Fixed lifesteal working on ward units
+- Fixed Linkens Orb having an active ability indicator
+- Fixed Linkens Orb not blocking spells when they get reflected
+- Fixed Roaming Wand gaining charges when using items
+- Fixed Lantern of Perish working through magic immunity
+- Fixed Akasha not displaying magic immunity effect while casting Sonic Cataclysm
+- Fixed Elder Titan's spirit have incorrect ability values
+
+Balance:
+Necrophos:
+- Reapers Scythe can now crit with Trident of the Depths
+
+Sven:
+- Great Cleave increased from 30 40 50 60 70 80 90 > 40 50 60 70 80 90 100
+
+Lycan:
+- Increased wolf movement speed from 300 > 325
+
+Tiny:
+- Grow damage decreased from 50 100 150 200 250 300 350 > 50 75 100 125 150 175 200
+
+Elder Titan:
+- Echo Stomp sleep duration increased from 1.0 1.5 2.0 2.5 3.0 3.5 4 > 2 3 4 5 6 7 8
+
+Anti-Mage:
+- Mana Void damage increased from 0.8 0.95 1.1 1.3 1.5 1.7 1.9 > 1.0 1.2 1.4 1.6 1.8 2.0 2.2
+
+Enchantress:
+- Untouchable slow amount increased from -40 -70 -100 -130 -160 -190 -220 > -100 -150 -200 -250 -300 -350 -400
+- Untouchable talent slow amount increased from -60 > -100
+- Enchant slow increased from -45% > -30 -35 -40 -45 -50 -55 -60%
+- Impetus damage per distance increased from 8 10 12 14 16 18 20% > 10 15 20 25 30 35 40%
+
+Items:
+Monkey King Bar:
+- Increased pierce chance from 60% > 60 65 70 75%
+
+Heavens Halberd:
+- Increased healing amp from 25 30 35 40% > 20 30 40 50
+
+Hellfire Lantern:
+- Heal from searing affliction reduced from 100% > 30%
+- Burn damage increased from 40 60 80 > 50 75 100
+
+Battlemage's Arsenal:
+- Replaced echo sabre component with kaya
+- Damage increased from 25 50 75 > 50 100 150
+- Attack Speed increased from 45 90 135 > 50 100 150
+- Intelligence increased from 25 50 75 > 30 60 90
+- New: Added Spell Amp (10 14 18%)
+- New: Added Mana Regen Amp (50 75 100%)
+- New: Added Spell Lifesteal Amp (25 30 35%)
+
+Mirror Blade:
+- Attack Speed increased from 10 20 30 > 25 50 75
+- Damage increased from 15 30 45 > 20 45 70
