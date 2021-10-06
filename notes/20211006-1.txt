@@ -1,5 +1,5 @@
 Bug Fixes:
-- Fixed Rasor Eye of the Storm armor debuff working on bosses
+- Fixed Razor Eye of the Storm armor debuff working on bosses
 - Fixed health based damage abilities dealing critical damage against bosses
 - Fixed lifesteal working on ward units
 - Fixed Linkens Orb having an active ability indicator
@@ -14,7 +14,7 @@ Necrophos:
 - Reapers Scythe can now crit with Trident of the Depths
 
 Sven:
-- Great Cleave increased from 30 40 50 60 70 80 90 > 40 50 60 70 80 90 100
+- Great Cleave increased from 30 40 50 60 70 80 90% > 40 50 60 70 80 90 100%
 
 Lycan:
 - Increased wolf movement speed from 300 > 325
