@@ -1,2 +1,53 @@
 Gameplay:
 - Increased max movement speed from 725 > 1000
+
+Bug Fixes:
+- Fixed Ursa Fury Swipes having an additional level
+- Fixed the creep AI persisting on being dominated
+
+Map:
+- Fixed the camps on the dire side being on the wrong side instead of at the new camp area near the river
+- Fixed the small camps being larger on radiant side
+
+Balance:
+Lion:
+- Finger of Death Aghanim's Scepter damage increased from 725 875 1025 1200 1350 1500 1800 > 800 1000 1200 1400 1600 1800 2000
+
+Ursa:
+- Overpower attack speed increased from 250 > 250 270 290 310 330 350 370
+
+Broodmother:
+- Insatiable Hunger lifesteal reduced from 100 120 140 160 180 200 220 > 40 60 80 100 120 140 160
+- Insatiable Hunger damage reduced from 60 100 140 180 220 260 300 > 40 50 60 70 80 90 100
+
+Ogre Magi:
+- 20% bash talent changed to +30 strength
+
+Shadow Fiend:
+- Aura Affects Buildings talents changed to +20 agility
+
+Items:
+Thunder Furies:
+- Now gives permanent movement phase
+- Static duration increased to 15 16 17 seconds
+- Static cooldown increased to 35 30 25 seconds
+
+Monkey King Bar:
+- Damage increased from 40 80 120 160 > 70 110 150 190
+- Attack Speed increased from 35 70 105 140 > 65 100 135 170
+
+Flutterbye:
+- Evasion increased from 35 37 39% > 35 45 55%
+- Damage increased from 25 50 75 > 50 75 100
+
+Manta Style:
+- Strength increased from 10 20 30 40 > 10 20 40 80
+- Intellect increased from 10 20 30 40 > 10 20 40 80
+- Agility increased from 26 52 78 104 > 30 60 90 120
+- Attack Speed increased from 12 24 36 48 > 22 44 66 88
+- Movement Speed increased from 8 10 12 14 16% > 10 15 20 25%
+- Melee Illusions damage increased from 33 38 43 48% > 35 40 45 50%
+- Ranged Illusions damage increased from 28 33 38 43% > 30 35 40 45%
+
+Curse Bearer:
+- Cold Attack now only slows melee heroes by half the values
