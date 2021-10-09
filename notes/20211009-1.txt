@@ -1,0 +1,14 @@
+Gameplay:
+- Waiting for players now shows the correct screen instead of the hero selection screen
+
+Bug Fixes:
+- Fixed backpack items not being refreshed in the duel
+- Fixed Gamma Orb not refreshing items
+- Fixed spells and other abilities targeting something invisible in the duel area
+
+Balance:
+Nature's Prophet:
+- Reworked Q and E into new skills
+
+Tiny:
+- Tree Grab splash damage decreased from 40 60 80 100 120 140 160 > 30 40 50 60 70 80 90 100
