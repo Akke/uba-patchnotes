@@ -7,7 +7,3 @@ Akasha:
 - Now has cast time indicators (red circles) that warns player of what's about to happen
 - Movement speed lowered from 625 > 325
 - Health increased from 500k > 1m
-- Now has 3 stages depending on her health, which changes her appearance and unlocks more of her skills, making her harder as she advances through them:
-  • Stage 1 (QoP): >66% health
-  • Stage 2 (Blue Arcana QoP): <66% health
-  • Stage 3 (Red Arana QoP): <33% health
