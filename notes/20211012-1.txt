@@ -17,9 +17,10 @@ Gameplay:
 - NEW: Treasure Chest!
   • Spawns at 0:00 and thereafter every 1 minute
   • Drops common, uncommon, rare and legendary neutral items depending on the game time (and with some chance)
+  • Drops gold to the attacker every time it's hit, and some bonus gold to whoever got the last hit
   • Common: 100% chance when <10 minutes, Uncommon: 75% chance when >10 minutes, Rare: 50% chance when >20 minutes, Legendary: 10% chance when >30 minutes
   • Dropped item disappears after some time
-  • The chest can not be targeted by items or abilities and can only be destroyed by a single attack (it has 1 health)
+  • The chest can only be destroyed by taking 10 hits from attacks
   • The dropped item can be picked up by anyone, regardless of whom destroyed the chest
   
 Items:
