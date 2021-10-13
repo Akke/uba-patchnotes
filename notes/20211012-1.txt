@@ -2,6 +2,7 @@ Bug Fixes:
 - Fixed Akasha's magic immunity effect lasting for the entire duration of Sonic Cataclysm
 - Fixed a bug where Akasha would play the sound of Shadow Strike despite having no targets nearby
 
+Bosses:
 Akasha:
 - Her abilities now have a global cooldown in addition to their own cooldowns
 - She can no longer move while preparing to cast an ability
@@ -10,3 +11,18 @@ Akasha:
 - Health increased from 500,000 > 1,000,000
 - Updated ability tooltips to be more accurate
 - Removed passive ability "Resonator"
+
+Gameplay:
+- Neutral items can now only be obtained from the treasure chest
+- NEW: Treasure Chest!
+  • Spawns at 0:00 and thereafter every 1 minute
+  • Drops common, uncommon, rare and legendary neutral items depending on the game time (and with some chance)
+  • Common: 100% chance when <10 minutes, Uncommon: 75% chance when >10 minutes, Rare: 50% chance when >20 minutes, Legendary: 10% chance when >30 minutes
+  • Dropped item disappears after some time
+  • The chest can not be targeted by items or abilities and can only be destroyed by a single attack (it has 1 health)
+  • The dropped item can be picked up by anyone, regardless of whom destroyed the chest
+  
+Items:
+Neutrals:
+- Removed Giant's Ring
+- Removed Demonicon
