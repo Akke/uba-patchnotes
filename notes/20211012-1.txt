@@ -1,16 +1,8 @@
 Bug Fixes:
-- Fixed Akasha's magic immunity effect lasting for the entire duration of Sonic Cataclysm
-- Fixed a bug where Akasha would play the sound of Shadow Strike despite having no targets nearby
+- Fixed towers having decreased attack range at night
 
 Bosses:
-Akasha:
-- Her abilities now have a global cooldown in addition to their own cooldowns
-- She can no longer move while preparing to cast an ability
-- Now has cast time indicators (red circles) that warns player of what's about to happen
-- Movement speed lowered from 625 > 325
-- Health increased from 500,000 > 1,000,000
-- Updated ability tooltips to be more accurate
-- Removed passive ability "Resonator"
+- Removed the final boss Akasha, no longer required to win the game
 
 Gameplay:
 - Neutral items can now only be obtained from the treasure chest
@@ -22,8 +14,9 @@ Gameplay:
   • Dropped item disappears after some time
   • The chest can only be destroyed by taking 10 hits from attacks
   • The dropped item can be picked up by anyone, regardless of whom destroyed the chest
+- Towers Attack Projectile speed increased from 750 > 1100
   
 Items:
 Neutrals:
-- Removed Giant's Ring
+- Removed Giant's Ring (map abuse is a problem)
 - Removed Demonicon
