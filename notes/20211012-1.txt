@@ -20,3 +20,9 @@ Items:
 Neutrals:
 - Removed Giant's Ring (map abuse is a problem)
 - Removed Demonicon
+
+HUD/UI:
+- Fixed the kill count in the top bar, it now counts down towards 0
+- You can now click the kill count in the top bar to display it to your allies
+- Reworked the duel timer to be more DOTA friendly
+- You can now click the duel timer to print the remaining time to your allies
