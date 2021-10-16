@@ -7,6 +7,8 @@ Bosses:
 - Removed the final boss Akasha, no longer required to win the game
 
 Gameplay:
+- NEW: Vote for kills!
+  • You can now vote how many kills that should end the game
 - Neutral items can now only be obtained from the treasure chest
 - NEW: Treasure Chest!
   • Spawns at 0:00 and thereafter every 1 minute
