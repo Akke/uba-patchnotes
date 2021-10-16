@@ -19,6 +19,7 @@ Gameplay:
   • The chest can only be destroyed by taking 10 hits from attacks
   • The dropped item can be picked up by anyone, regardless of whom destroyed the chest
 - Towers Attack Projectile speed increased from 750 > 1100
+- Duel interval increased from 4 minutes > 5 minutes
 
 Items:
 Neutrals:
