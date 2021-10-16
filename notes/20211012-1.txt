@@ -1,5 +1,7 @@
 Bug Fixes:
 - Fixed towers having decreased attack range at night
+- Fixed wards not being put into the stash on purchase
+- Fixed not being able to put items into the neutral slot without dropping them on the ground first
 
 Bosses:
 - Removed the final boss Akasha, no longer required to win the game
@@ -15,7 +17,7 @@ Gameplay:
   • The chest can only be destroyed by taking 10 hits from attacks
   • The dropped item can be picked up by anyone, regardless of whom destroyed the chest
 - Towers Attack Projectile speed increased from 750 > 1100
-  
+
 Items:
 Neutrals:
 - Removed Giant's Ring (map abuse is a problem)
