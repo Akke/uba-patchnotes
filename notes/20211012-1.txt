@@ -25,7 +25,7 @@ Gameplay:
   • Dropped item disappears after some time
   • The chest can only be destroyed by taking 10 hits from attacks
   • The dropped item can be picked up by anyone, regardless of whom destroyed the chest
-- NEW: Obelisk Gateways
+- NEW: Obelisk Gateways!
   • Each team now has one obelisk gateway they can teleport to
   • It can be destroyed by the opposite team for gold (500 + 10/minute), and when destroyed it respawns again with the same team as its killer
   • Gains 250 bonus health per minute when killed
