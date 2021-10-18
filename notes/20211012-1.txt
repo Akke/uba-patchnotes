@@ -1,15 +1,21 @@
 Bug Fixes:
-- Fixed towers having decreased attack range at night
-- Fixed wards not being put into the stash on purchase
+- Fixed towers having decreased attack range/vision at night
+- Fixed wards not being put into the stash on purchase when outside of shop range
 - Fixed not being able to put items into the neutral slot without dropping them on the ground first
 
 Bosses:
-- Removed the final boss Akasha, no longer required to win the game
+- Removed the final boss Akasha (no longer required to win the game)
 
 Gameplay:
+- NEW: Leaderboard (MMR)!
+  • Loading Screen will display top 100 players with the rank 1 player being highlighted (also displays your own rank at the top)
+  • MMR is only for show-off and does not bring any advantages
+  • Everyone starts with 1000 MMR
+  • Gain +10 MMR for every win and lose -5 for every loss (you can never lose more than 5 points per loss)
+  • Lose -20 MMR if you're disconnected when the game ends (regardless if your team wins)
+  • You gain +1 bonus MMR per 10 kills/assists and per 1 million damage taken/done by/to heroes (you don't get any bonuses if you lose)
 - NEW: Vote for kills!
-  • You can now vote how many kills that should end the game
-- Neutral items can now only be obtained from the treasure chest
+  • You can now vote how many kills that should end the game (defaults to 60 if no votes are given)
 - NEW: Treasure Chest!
   • Spawns at 0:00 and thereafter every 1 minute
   • Drops common, uncommon, rare and legendary neutral items depending on the game time (and with some chance)
@@ -20,6 +26,7 @@ Gameplay:
   • The dropped item can be picked up by anyone, regardless of whom destroyed the chest
 - Towers Attack Projectile speed increased from 750 > 1100
 - Duel interval increased from 4 minutes > 5 minutes
+- Neutral items can now only be obtained from the treasure chest
 
 Items:
 Neutrals:
