@@ -14,6 +14,7 @@ Gameplay:
   • Gain +10 MMR for every win and lose -5 for every loss (you can never lose more than 5 points per loss)
   • Lose -20 MMR if you're disconnected when the game ends (regardless if your team wins)
   • You gain +1 bonus MMR per 10 kills/assists and per 1 million damage taken/done by/to heroes (you don't get any bonuses if you lose)
+  • Ranked mode is only enabled if there are 6 or more players
 - NEW: Vote for kills!
   • You can now vote how many kills that should end the game (defaults to 60 if no votes are given)
 - NEW: Treasure Chest!
