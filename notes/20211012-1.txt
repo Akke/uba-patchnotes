@@ -6,6 +6,8 @@ Bug Fixes:
 
 Bosses:
 - Removed the final boss Akasha (no longer required to win the game)
+- Rebalanced all bosses
+- Added new boss: Fenrir, the Frost Wolf
 
 Gameplay:
 - NEW: Leaderboard (MMR)!
