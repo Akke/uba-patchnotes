@@ -41,8 +41,19 @@ Gameplay:
 - Removed old catchup system (no longer necessary)
 
 Items:
+- Reduced the needed charged essence from 2 > 1 for most T4 items
+
 Charged Essence:
 - Can now be purchased and restocks every 5 minutes (max 1 in stock)
+
+Lantern of Perish:
+- Removed
+
+Fragment of Night:
+- Removed
+
+Rune of Magic:
+- Removed
 
 Neutrals:
 - Removed Giant's Ring (map abuse is a problem)
