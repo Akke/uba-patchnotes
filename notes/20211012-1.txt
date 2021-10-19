@@ -6,7 +6,8 @@ Bug Fixes:
 
 Bosses:
 - Removed the final boss Akasha (no longer required to win the game)
-- Rebalanced all bosses
+- Rebalanced all bosses in terms of damage output and tankiness
+- Bosses now only drops 1 charged essence at all times
 - Now spawns when the game starts
 - Added new boss: Fenrir, the Frost Wolf
 
