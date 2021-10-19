@@ -36,6 +36,9 @@ Gameplay:
 - Removed Outposts
 
 Items:
+Charged Essence:
+- Can now be purchased and restocks every 5 minutes (max 1 in stock)
+
 Neutrals:
 - Removed Giant's Ring (map abuse is a problem)
 - Removed Demonicon
