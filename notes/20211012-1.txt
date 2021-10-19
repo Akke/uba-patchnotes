@@ -3,6 +3,9 @@ Bug Fixes:
 - Fixed wards not being put into the stash on purchase when outside of shop range
 - Fixed not being able to put items into the neutral slot without dropping them on the ground first
 - Fixed units (and bosses) not being able to be affected by attack speed slows
+- Fixed movement speed from boots not being applies to illusions
+- Fixed buyback cost
+- Fixed suicides granting gold to self
 
 Bosses:
 - Removed the final boss Akasha (no longer required to win the game)
@@ -39,6 +42,9 @@ Gameplay:
 - Neutral items can now only be obtained from the treasure chest
 - Removed old outposts
 - Removed old catchup system (no longer necessary)
+- Bonus gold per level on kill increased from 10 > 50
+- Bonus gold per streak on kill increased from 100 > 300
+- Base gold per kill increased from 210 > 400
 
 Items:
 - Reduced the needed charged essence from 2 > 1 for most T4 items
@@ -70,3 +76,36 @@ Heroes:
 Tiny:
 - Base agility reduced from 16 > 0
 - Agility gain reduced from 2.5 > 0
+
+Juggernaut:
+- Blade Dance critical strike chance increased from 25% > 20 22 24 26 28 30 32%
+
+Nature's Prophet:
+- Living Roots damage interval decreased from 1s > 0.5s
+- Duration increased from 1.0 1.25 1.5 1.75 2.0 2.25 2.5 > 1.0 1.5 2.0 2.5 3.0 3.5 4.0
+- Mana cost decreased from 110 115 120 125 130 135 140 > 75 85 95 105 115 125 135
+- Wrath of Nature damage increased from 110 140 170 250 360 470 580 > 115 210 305 400 495 590 685
+- Wrath of Nature bonus damage per bounce increased from 10% > 20%
+
+Broodmother:
+- Insatiable Hunger duration increased from 10 > 8 9 10 11 12 13 14
+- Insatiable cooldown increased from 45 40 35 30 25 20 15 > 60 55 50 45 40 35 30
+
+Shadow Fiend:
+- Requiem of Souls cooldown increased from 100 95 90 85 80 75 70 > 120 115 110 105 100 95 90
+
+Pudge:
+- Meat Hook damage increased from 150 220 290 360 430 500 570 > 150 240 330 420 510 600 690
+
+Rubick:
+- Arcane Supremacy cast range increased from 100 150 200 250 > 100 150 200 250 300 350 400
+- Fade Bolt damage reduction increased from 14 21 28 35 > 14 21 28 35 42 49 56%
+- Fade Bolt damage increased from 80 160 240 320 400 480 560 > 100 190 280 370 460 550 640
+- Spell Steal spell damage amplification increased from 10 20 30 > 10 20 30 40 50 60 70%
+
+Axe:
+- Counter Helix shard upgrade can no longer affect bosses
+
+Techies:
+- Mines movement speed talent decreased from 400 > 100
+- Remote Mines damage decreased from 350 550 750 950 1150 1350 1550 > 200 380 560 740 920 1100 1280
