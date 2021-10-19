@@ -37,7 +37,8 @@ Gameplay:
 - Towers Attack Projectile speed increased from 750 > 1100
 - Duel interval increased from 4 minutes > 5 minutes
 - Neutral items can now only be obtained from the treasure chest
-- Removed Outposts
+- Removed old outposts
+- Removed old catchup system (no longer necessary)
 
 Items:
 Charged Essence:
