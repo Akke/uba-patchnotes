@@ -45,3 +45,9 @@ HUD/UI:
 - You can now click the kill count in the top bar to display it to your allies
 - Reworked the duel timer to be more DOTA friendly
 - You can now click the duel timer to print the remaining time to your allies
+
+Balance:
+Heroes:
+Tiny:
+- Base agility reduced from 16 > 0
+- Agility gain reduced from 2.5 > 0
