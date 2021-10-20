@@ -54,7 +54,7 @@ Last Resort:
 - Active regeneration increased from 10 > 70
 - Cooldown increased from 20 > 30
 - Mana cost increased from 0 > 100
-- Cost decreased from 2745 > 2245
+- Cost decreased from 2745 > 1900
 
 Bully Belt:
 - Removed cloak from components
@@ -76,7 +76,10 @@ Hellfire Lantern:
 - Radiance component changed to sacred relic
 - Cost decreased from 11250 > 9900
 
-Neutrals:
+Black King Blade:
+- Now increases the model size by 30% when activated
+
+Neutral Items:
 - Removed Giant's Ring (map abuse is a problem)
 - Removed Demonicon
 
@@ -91,6 +94,7 @@ Heroes:
 Tiny:
 - Base agility reduced from 16 > 0
 - Agility gain reduced from 2.5 > 0
+- Avalanche cooldown increased from 23 21 19 17 15 13 12 > 25 23 21 19 17 15 14
 
 Juggernaut:
 - Blade Dance critical strike chance increased from 25% > 20 22 24 26 28 30 32%
@@ -124,3 +128,11 @@ Axe:
 Techies:
 - Mines movement speed talent decreased from 400 > 100
 - Remote Mines damage decreased from 350 550 750 950 1150 1350 1550 > 200 380 560 740 920 1100 1280
+
+Faceless Void:
+- Timewalk cooldown decreased from 24 20 18 16 14 12 10 > 20 16 14 12 10 8 6
+- Chronosphere duration reduced from 4.0 4.25 4.5 4.75 5.0 5.25 > 3.5 3.75 4.0 4.25 4.5 4.75 5.0
+
+Mirana:
+- Moonlight Shadow duration increased from 15 > 18
+- Moonlight Shadow bonus speed increased from 9 12 15% > 9 12 15 18 21 24 27%
