@@ -50,6 +50,16 @@ Items:
 - Reduced the needed charged essence from 2 > 1 for most T4 items
 - Duplicate item components have been replaced with recipes
 
+Last Resort:
+- Active regeneration increased from 10 > 70
+- Cooldown increased from 20 > 30
+- Mana cost increased from 0 > 100
+- Cost decreased from 2745 > 2245
+
+Bully Belt:
+- Removed cloak from components
+- Cost decreased from 1345 > 845
+
 Charged Essence:
 - Can now be purchased and restocks every 5 minutes (max 1 in stock)
 
