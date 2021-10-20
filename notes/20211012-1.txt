@@ -45,8 +45,12 @@ Gameplay:
 - Bonus gold per level on kill increased from 10 > 50
 - Bonus gold per streak on kill increased from 100 > 300
 - Base gold per kill increased from 210 > 400
+- Cooldowns are no longer reset at the end of a duel
 
 Items:
+- NEW: Rubick's Twisted Scepter
+  • Upgrades one or more abilities, like a regular Aghanim's Scepter
+  • Only available for a few heroes currently, more will be added in the future
 - Reduced the needed charged essence from 2 > 1 for most T4 items
 - Duplicate item components have been replaced with recipes
 
@@ -136,3 +140,7 @@ Faceless Void:
 Mirana:
 - Moonlight Shadow duration increased from 15 > 18
 - Moonlight Shadow bonus speed increased from 9 12 15% > 9 12 15 18 21 24 27%
+
+Snapfire:
+- NEW: Mwah!
+  • Upgrade from Rubick's Twisted Scepter: Gives a chance on attack to launch a firespit glob.
