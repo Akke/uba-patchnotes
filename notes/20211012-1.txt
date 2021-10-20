@@ -48,6 +48,7 @@ Gameplay:
 
 Items:
 - Reduced the needed charged essence from 2 > 1 for most T4 items
+- Duplicate item components have been replaced with recipes
 
 Charged Essence:
 - Can now be purchased and restocks every 5 minutes (max 1 in stock)
@@ -60,6 +61,10 @@ Fragment of Night:
 
 Rune of Magic:
 - Removed
+
+Hellfire Lantern:
+- Radiance component changed to sacred relic
+- Cost decreased from 11250 > 9900
 
 Neutrals:
 - Removed Giant's Ring (map abuse is a problem)
