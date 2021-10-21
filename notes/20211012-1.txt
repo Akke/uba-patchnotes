@@ -67,6 +67,7 @@ Last Resort:
 - Cooldown increased from 20 > 30
 - Mana cost increased from 0 > 100
 - Cost decreased from 2745 > 1900
+- The active buff is now cancelled when the owner takes damage
 
 Bully Belt:
 - Removed cloak from components
