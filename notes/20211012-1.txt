@@ -23,7 +23,7 @@ Gameplay:
   • Gain +10 MMR for every win and lose -5 for every loss (you can never lose more than 5 points per loss)
   • Lose -20 MMR if you're disconnected when the game ends (regardless if your team wins)
   • You gain +1 bonus MMR per 10 kills/assists and per 1 million damage taken/done by/to heroes (you don't get any bonuses if you lose)
-  • Ranked mode is only enabled if there are 6 or more players
+  • Ranked mode is only enabled if there are 6 or more players and the teams are even (3v3, 4v4, 5v5)
 - NEW: Vote for kills!
   • You can now vote how many kills that should end the game (defaults to 60 if no votes are given)
 - NEW: Treasure Chest!
@@ -84,6 +84,9 @@ Fragment of Night:
 Rune of Magic:
 - Removed
 
+Desolator:
+- Armor reduction increased from -6 -12 -22 -30 > -6 -12 -24 -44
+
 Hellfire Lantern:
 - Radiance component changed to sacred relic
 - Cost decreased from 11250 > 9900
@@ -127,6 +130,10 @@ Shadow Fiend:
 
 Pudge:
 - Meat Hook damage increased from 150 220 290 360 430 500 570 > 150 240 330 420 510 600 690
+
+Drow Ranger:
+- Multishot arrow damage decreased from 85 110 135 160 185 210 235% > 85 110 115 130 145 160 175%
+- Multishot cooldown increased from 26 24 22 20 18 16 14 > 26 25 24 23 22 21 20
 
 Rubick:
 - Arcane Supremacy cast range increased from 100 150 200 250 > 100 150 200 250 300 350 400
