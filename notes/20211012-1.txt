@@ -53,6 +53,7 @@ Gameplay:
 - All camps and bosses now disappear during the duel
 - Creep camps can now contain 2 stacks at any given time, as long as there are no heroes inside
 - Normal creep camps respawn interval increased from 30s > 60s
+- Ancient creep camps respawn interval decreased from 90s > 60s
 
 Items:
 - NEW: Rubick's Twisted Scepter
