@@ -51,6 +51,7 @@ Gameplay:
 - Increased XP and gold gain from camps
 - Nerfed gnolls in small camps
 - All camps and bosses now disappear during the duel
+- Creep camps can now contain 2 stacks at any given time, as long as there are no heroes inside
 
 Items:
 - NEW: Rubick's Twisted Scepter
