@@ -43,9 +43,9 @@ Gameplay:
 - Neutral items can now only be obtained from the treasure chest
 - Removed old outposts
 - Removed old catchup system (no longer necessary)
-- Bonus gold per level on kill increased from 10 > 50
+- Bonus gold per level on kill increased from 10 > 100
 - Bonus gold per streak on kill increased from 100 > 300
-- Base gold per kill increased from 210 > 400
+- Base gold per kill increased from 210 > 600
 - Cooldowns are no longer reset at the end of a duel
 - Maximum movement speed decreased from 1000 > 750
 - Increased XP and gold gain from camps
