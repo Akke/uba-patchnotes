@@ -3,7 +3,7 @@ Bug Fixes:
 - Fixed wards not being put into the stash on purchase when outside of shop range
 - Fixed not being able to put items into the neutral slot without dropping them on the ground first
 - Fixed units (and bosses) not being able to be affected by attack speed slows
-- Fixed movement speed from boots not being applies to illusions
+- Fixed movement speed from boots not being applied to illusions
 - Fixed buyback cost
 - Fixed suicides granting gold to self
 - Fixed ancient creatures missing the creature AI
