@@ -6,6 +6,7 @@ Bug Fixes:
 - Fixed movement speed from boots not being applies to illusions
 - Fixed buyback cost
 - Fixed suicides granting gold to self
+- Fixed ancient creatures missing the creature AI
 
 Bosses:
 - Removed the final boss Akasha (no longer required to win the game)
@@ -49,6 +50,7 @@ Gameplay:
 - Maximum movement speed decreased from 1000 > 750
 - Increased XP and gold gain from camps
 - Nerfed gnolls in small camps
+- All camps and bosses now disappear during the duel
 
 Items:
 - NEW: Rubick's Twisted Scepter
