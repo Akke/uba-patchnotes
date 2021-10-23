@@ -45,7 +45,7 @@ Gameplay:
 - Removed old catchup system (no longer necessary)
 - Bonus gold per level on kill increased from 10 > 100
 - Bonus gold per streak on kill increased from 100 > 300
-- Base gold per kill increased from 210 > 600
+- Base gold per kill increased from 210 > 250
 - Cooldowns are no longer reset at the end of a duel
 - Maximum movement speed decreased from 1000 > 750
 - Increased XP and gold gain from camps
@@ -92,6 +92,12 @@ Hellfire Lantern:
 
 Black King Blade:
 - Now increases the model size by 30% when activated
+
+Observer Ward:
+- Price decreased from 50 > 0
+
+Sentry Ward:
+- Price increased from 50 > 75
 
 Neutral Items:
 - Removed Giant's Ring (map abuse is a problem)
