@@ -44,8 +44,8 @@ Gameplay:
 - Neutral items can now only be obtained from the treasure chest
 - Removed old outposts
 - Removed old catchup system (no longer necessary)
-- Bonus gold per level on kill increased from 10 > 100
-- Bonus gold per streak on kill increased from 100 > 300
+- Bonus gold per level on kill increased from 10 > 30
+- Bonus gold per streak on kill increased from 100 > 200
 - Base gold per kill increased from 210 > 250
 - Cooldowns are no longer reset at the end of a duel
 - Maximum movement speed decreased from 1000 > 750
@@ -169,3 +169,18 @@ Snapfire:
 Juggernaut:
 - Base agility decreased from 34 > 23
 - Agility gain decreased from 2.8 > 2.2
+
+Timbersaw:
+- Whirling Death primary attribute loss increased from 10% > 13 14 15 16 17 18 19%
+- Whirling Death primary attribute loss duration increased from 14 > 13 14 15 16 17 18 19 seconds
+- Whirling Death cooldown decreased from 10 > 6 seconds
+- Whirling Death radius increased from 300 > 325
+- Reactive Armor max stacks increased from 6 8 10 12 14 16 18 > 6 12 18 24 30 36 42
+- Fixed Second Chakram scaling being incorrect
+
+Abbadon:
+- Borrowed Time duration increased from 3 3.5 4 4.5 5 5.5 6 > 4.0 4.5 5.0 5.5 6.0 6.5 7.0
+- Borrowed Time aghanims scepter duration increased from 4 4.5 5 5.5 6 6.5 7 > 7.0 7.5 8.0 8.5 9.0 9.5 10.0
+
+Bane:
+- Fiends Grip cooldown reduced from 120 110 100 90 80 70 60 > 100 90 80 70 60 50 40
