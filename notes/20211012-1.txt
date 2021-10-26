@@ -97,6 +97,9 @@ Bloodthorn:
 - Silence Damage increased from 30% > 30 35 40 45%
 - Silence duration increased from 5.0 > 5.0 5.5 6.0 6.5 seconds
 
+Refusal Blade:
+- Mana Burn per hit increased from 40 > 40 80 120
+
 Hellfire Lantern:
 - Radiance component changed to sacred relic
 - Cost decreased from 11250 > 9900
