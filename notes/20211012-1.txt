@@ -111,6 +111,9 @@ Black King Blade:
 Ultra Blink:
 - Active cooldown reduction reduced from 30 40 50 > 30 35 40%
 
+Trident of the Depths:
+- Crit chance increased from 30% > 30 35 40%
+
 Observer Ward:
 - Price decreased from 50 > 0
 - Initial Stock decreased from 7 > 2
