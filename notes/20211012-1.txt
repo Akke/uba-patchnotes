@@ -8,6 +8,7 @@ Bug Fixes:
 - Fixed suicides granting gold to self
 - Fixed ancient creatures missing the creature AI
 - Fixed incorrect gold amounts for hero kills (too little)
+- Fixed fountain attacks reducing armor on hit by -3, instead of reducing by -1 and -1% per hit
 
 Bosses:
 - Removed the final boss Akasha (no longer required to win the game)
@@ -53,8 +54,13 @@ Gameplay:
 - Nerfed gnolls in small camps
 - All camps and bosses now disappear during the duel
 - Ancient creep camps respawn interval decreased from 90s > 60s
+- Fountain BaT decreased from 0.15 > 0.1
+- Fountain attack projectile speed increased from 1400 > 2000
+- Fountain attack damage increased from 199 > 500
 
 Items:
+- NEW: Jagged Blade
+- NEW: Conduit
 - NEW: Rubick's Twisted Scepter
   • Upgrades one or more abilities, like a regular Aghanim's Scepter
   • Only available for a few heroes currently, more will be added in the future
@@ -86,6 +92,10 @@ Rune of Magic:
 
 Desolator:
 - Armor reduction increased from -6 -12 -22 -30 > -6 -12 -24 -44
+
+Bloodthorn:
+- Silence Damage increased from 30% > 30 35 40 45%
+- Silence duration increased from 5.0 > 5.0 5.5 6.0 6.5 seconds
 
 Hellfire Lantern:
 - Radiance component changed to sacred relic
