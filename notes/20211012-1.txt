@@ -143,6 +143,10 @@ Axe:
 Bane:
 - Fiends Grip cooldown reduced from 120 110 100 90 80 70 60 > 100 90 80 70 60 50 40
 
+Broodmother:
+- Insatiable Hunger duration increased from 10 > 8 9 10 11 12 13 14
+- Insatiable cooldown increased from 45 40 35 30 25 20 15 > 60 55 50 45 40 35 30
+
 Drow Ranger:
 - Multishot arrow damage decreased from 85 110 135 160 185 210 235% > 85 110 115 130 145 160 175%
 - Multishot cooldown increased from 26 24 22 20 18 16 14 > 26 25 24 23 22 21 20
