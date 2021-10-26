@@ -105,6 +105,9 @@ Hellfire Lantern:
 - Radiance component changed to sacred relic
 - Cost decreased from 11250 > 9900
 
+Flutterbye:
+- Evasion decreased from 35 45 55% > 35 40 45%
+
 Black King Blade:
 - Now increases the model size by 30% when activated
 
