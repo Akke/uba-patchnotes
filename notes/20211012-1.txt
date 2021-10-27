@@ -59,6 +59,8 @@ Gameplay:
 - Fountain BaT decreased from 0.15 > 0.1
 - Fountain attack projectile speed increased from 1400 > 2000
 - Fountain attack damage increased from 199 > 500
+- Removed Hard camps
+- Ancient camp initial spawn time increased from 5 > 10
 
 Items:
 - NEW: Jagged Blade
@@ -122,7 +124,7 @@ Trident of the Depths:
 - Crit chance increased from 30% > 30 35 40%
 
 Observer Ward:
-- Price decreased from 50 > 0
+- Price decreased from 50 > 25
 - Initial Stock decreased from 7 > 2
 - Restock time increased from 30 > 60 seconds
 
