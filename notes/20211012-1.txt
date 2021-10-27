@@ -109,6 +109,9 @@ Hellfire Lantern:
 Flutterbye:
 - Evasion decreased from 35 45 55% > 35 40 45%
 
+Spiked Armor:
+- Active Regeneration reduction on hit increased from 50 75 100 > 100 150 200
+
 Black King Blade:
 - Now increases the model size by 30% when activated
 
