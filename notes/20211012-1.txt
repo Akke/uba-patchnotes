@@ -10,6 +10,7 @@ Bug Fixes:
 - Fixed incorrect gold amounts for hero kills (too little)
 - Fixed fountain attacks reducing armor on hit by -3, instead of reducing by -1 and -1% per hit
 - Fixed Refusal Blade tooltip being incorrect
+- Fixed illusions not having the same max movement speed as the owner
 
 Bosses:
 - Removed the final boss Akasha (no longer required to win the game)
