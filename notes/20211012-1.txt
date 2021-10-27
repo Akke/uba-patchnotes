@@ -62,7 +62,7 @@ Gameplay:
 
 Items:
 - NEW: Jagged Blade
-- NEW: Conduit
+- NEW: Odyssey's Bow
 - NEW: Rubick's Twisted Scepter
   • Upgrades one or more abilities, like a regular Aghanim's Scepter
   • Only available for a few heroes currently, more will be added in the future
