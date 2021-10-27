@@ -126,7 +126,8 @@ Trident of the Depths:
 Observer Ward:
 - Price decreased from 50 > 25
 - Initial Stock decreased from 7 > 2
-- Restock time increased from 30 > 60 seconds
+- Restock time increased from 30 > 360 seconds
+- Max stock count decreased from 7 > 5
 
 Sentry Ward:
 - Price increased from 50 > 75
