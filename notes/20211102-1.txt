@@ -14,7 +14,7 @@ Gameplay:
 Items:
 - Removed all Tier 4 Dota Items
 - Removed Desolator upgrades
-- Tier 2 Dota Items now required an additional Charged Essence to complete
+- Tier 2 Dota Items now requires an additional Charged Essence to complete
 
 Hellfire Lantern:
 - Price decreased to 6900
