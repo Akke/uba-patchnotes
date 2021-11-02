@@ -3,12 +3,12 @@ Bug Fixes:
 - Fixed being able to place wards in fountain
 - Fixed gold message containing too many decimals when killed by a non-hero unit
 - Fixed the game not ending when you got enough kills
+- Fixed Dragon Scale not being purchasable directly from the shop
 
 Gameplay:
 - Max attack speed decreased from 1500 > 800
 - Bonus gold per streak on kill increased from 200 > 400
 - Increased/decreased gold/xp gain is now based on a single persons networth compared to the average networth of the entire enemy team, instead of being entirely team based
-- Fixed Dragon Scale not being purchasable directly from the shop
 - Roshan base health increased from 25000 > 50000
 
 Items:
