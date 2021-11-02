@@ -1,0 +1,55 @@
+Bug Fixes:
+- Fixed some T2 neutrals dropping from the treasure chest too early
+- Fixed being able to place wards in fountain
+- Fixed gold message containing too many decimals when killed by a non-hero unit
+- Fixed the game not ending when you got enough kills
+
+Gameplay:
+- Max attack speed decreased from 1500 > 800
+- Bonus gold per streak on kill increased from 200 > 400
+- Increased/decreased gold/xp gain is now based on a single persons networth compared to the average networth of the entire enemy team, instead of being entirely team based
+- Fixed Dragon Scale not being purchasable directly from the shop
+- Roshan base health increased from 25000 > 50000
+
+Items:
+- Removed all Tier 4 Dota Items
+- Removed Desolator upgrades
+- Tier 2 Dota Items now required an additional Charged Essence to complete
+
+Hellfire Lantern:
+- Price decreased to 6900
+- Components no longer require a satanic, instead it uses a morbid mask and a recipe
+- Damage decreased from 120 240 360 > 80 160 240 
+- Removed bonus strength
+
+Thunder Furies:
+- Attack Speed decreased from 65 130 230 > 65 130 195 
+- Damage decreased from 42 84 168 > 42 84 126
+
+Monkey King Bar:
+- Attack Speed increased from 65 100 135 > 65 100 165
+- Damage increased from 70 110 150 > 70 110 180
+
+Dragon Scale:
+- Armor/HP regen decreased from 10 > 5
+
+Gamma Orb:
+- Cooldown reduced from 150 140 130 > 150 100 80
+- Level 2/3 recipe gold decreased to 5000
+
+Wormhole boots:
+- Reduced recipe and total item cost
+- Replace supreme orb component with ultimate orb
+
+Odyssey's Bow:
+- Shock damage decreased from 4 5 6% > 2 3 4%
+
+Jagged Blade:
+- Changed components to Desolator + Sacred Relic + 2 CE + Recipe
+- Max stacks reduced from 100 > 25
+- Base armor loss per stack increased from 1% > 4%
+- Additional total armor loss per stack past 25 stacks increased from 1 > 3
+
+Balance:
+Bane:
+- Fiends Grip cooldown changed from 100 90 80 70 60 50 40 > 60
