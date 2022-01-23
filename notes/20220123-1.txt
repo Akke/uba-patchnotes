@@ -1,0 +1,58 @@
+Bug Fixes:
+- Fixed a bug where Spiked Armor passive would register on any damage taken instead of only attacks
+- Fixed BlacK King Blade 3 recipe cost being too low
+- Fixed Aeon Shield not being purgable/refresheable 
+- Fixed catchup system debuff not being set to the new updated values
+
+Changes:
+- Improved the XP formula
+- Jagged Blade components have been reworked and added Jagged Blade 2 & 3
+- Catchup system now gives or takes 25% of your gold income up to 3 times depending on far ahead/behind you are
+- Bounty rune base XP increased from 50 > 200
+- Bounty rune base XP multiplier per game minute increased from 10 > 50
+
+Items:
+Refusal Blade:
+- Now performs a hard dispel
+
+Monkey King Bar:
+- Damage increased from 70 110 180 > 88 176 264
+- Attack Speed increased from 65 100 165 > 90 160 200
+- Pierce Damage increased from 70 80 90 > 70 105 140
+
+Skull Basher:
+- Bash duration decreased from 1.5 > 0.5
+
+Abyssal Blade:
+- Bash duration decreased from 1.0 > 0.5
+- Stun duration decreased from 2.0 > 1.0
+
+Spiked Armor:
+- Improved the active return verification parameters to only work for heroes/creeps/bosses and never items/non-unit based
+
+Thunder Furies:
+- Chain lightning damage decreased from 180 360 720 > 180 270 360
+
+Balance:
+Tidehunter:
+- Anchor Smash damage decreased from 45 70 90 110 135 180 270 > 40 55 70 85 100 115 130
+- Level 25 talent 50% chance of Anchor Smash on attack > 12% chance of Anchor Smash on attack
+
+Nature's Prophet:
+- Wrath of Nature damage decreased from 115 210 305 400 495 590 685 > 115 150 185 220 255 290 325
+
+Sniper:
+- Headshot chance decreased from 20% > 5%
+- Headshot damage increased from 15 40 65 90 115 140 165 > 45 120 195 270 345 420 495
+
+Earth Spirit:
+- Rolling Boulder damage decreased from 100 170 240 310 380 450 520 > 60 130 200 270 340 410 480
+
+Faceless Void:
+- Level 25 talent Chronosphere AOE changed to +30 agility
+- Chronosphere radius decreased from 450 > 400
+
+Invoker:
+- Forge Spirit damage decreased from 40 80 120 160 200 240 280 300 > 20 40 60 80 100 120 140 160
+- Forge Spirit armor decreased from 6 9 12 15 18 21 25 28 > 2 4 6 8 10 12 14 16
+- Forge Spirit health decreased from 300 600 900 1200 1500 2000 2500 3000 > 300 400 500 600 700 800 900 1000
