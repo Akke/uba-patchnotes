@@ -44,6 +44,7 @@ Nature's Prophet:
 Sniper:
 - Headshot chance decreased from 20% > 5%
 - Headshot damage increased from 15 40 65 90 115 140 165 > 45 120 195 270 345 420 495
+- Take Aim increased headshot chance decreased from 100 > 50%
 
 Earth Spirit:
 - Rolling Boulder damage decreased from 100 170 240 310 380 450 520 > 60 130 200 270 340 410 480
