@@ -1,0 +1,68 @@
+Changes:
+- You now get 1 ability point up to level 6, then 1 ability point every 3 levels (except at 10, 15, 20, 25 and 30)
+- Killing the opposites team boss now only gives rewards to the opposite team (radiant kills dire boss = dire team gets rewards, etc) and does not level up the boss
+- Added Rubick's Twisted Scepter upgrade to Rubick
+- The Treasure Chest now gives an additional 10 gold per your level when killed
+- The Treasure Chest now gives experience when hit
+- Increased the base gold per hit on the Treasure Chest from 5 > 10
+
+Bug Fixes:
+- Fixed a bug where ancient camps were not considered to be ancients
+- Fixed not being able to put points into Desolate
+- Fixed a bug where dying in duel with aegis as the last player alive would end the duel prematurely
+- Fixed Scream of Pain having duplicate damage values
+- Fixed a bug where the treasure chest sometimes would not spawn an item
+- Fixed a bug where controlled units (dominated, illusions, plague wards, etc) would not credit the owner with the kill
+
+Items:
+Azwraith Armor:
+- Reworked to be more impactful
+
+Trident of the Depths:
+- 2/3 recipe cost increased from 2050 > 7650
+
+Tome of Knowledge:
+- XP bonus decreased from 700 > 125
+
+Omniscient Greaves:
+- 2/3 recipe cost decreased from 6800 > 4250
+
+Balance:
+Queen of Pain:
+- Sonic Wave aghanim's scepter damage increased from 425 540 655 760 875 1110 1335 > 585 720 855 990 1200 1425 1800
+
+Chen:
+- Hand of God scaling changed from 500 1000 1500 2000 2500 3000 3500 > 250 500 750 1000 1750 2500 3750
+
+Gyrocopter:
+- Rocket Barrage damage decreased from 7 12 17 22 27 32 37 > 5 9 13 17 21 25 29
+
+Broodmother:
+- Spawn Spiderlings cooldown scaling changed from 12 11 10 9 8 7 6 5 > 12
+- Spawn Spiderlings count decreased from 4 5 6 6 6 6 6 > 3
+- Spawn Spiderlings cooldown increased from 12 > 30
+- Spiderling attack damage increased from 18-19 > 25-29
+- Spiderling health increased from 450 > 650
+
+Silencer:
+- Global Silence mana cost scaling changed from 250 375 500 666 777 888 999 > 150 275 400 525 650 775 800
+
+Shadow Demon:
+- Demonic Purge cooldown increased from 50 > 60
+- Demonic Purge damage decreased from 200 300 400 600 800 1000 1200 > 200 300 400 500 600 700 800
+- Shadow Poison stack damage decreased from 20 35 50 65 75 90 120 > 26 34 42 50 58 66 74
+
+Witch Doctor:
+- Death Ward cooldown decreased from 80 > 60
+- Death Ward now deals magical damage and can crit using Trident of the Depths
+- Switcheroo cooldown decreased from 40 > 30
+
+Phantom Lancer:
+- Restored the level 25 talent
+- Juxtapose illusion damage taken decreased from 500 > 400%
+
+Naga Siren:
+- Mirror Image illusion damage taken decreased from 550 520 490 460 430 400 370 > 300%
+
+Chaos Knight:
+- Phantasm illusion damage taken decreased from 350 > 300%
