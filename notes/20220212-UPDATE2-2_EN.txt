@@ -1,0 +1,155 @@
+Changes:
+- Roshan will no longer level up when killed (he was never intended to)
+- (NEW!): Added a new boss "The Butcher" (below the treasure chest area on the opposite side of the river) that spawns a very special treasure chest when killed
+- All bosses now regenerate 10% of their max health when they haven't taken damage for the past 5 seconds
+- Sacred Warrior/Lyralei base gold reward increased from 1000 > 5000 (multiplied for each level)
+- Roshan base gold reward increased from 500 > 1000
+- Replaced the boss death notification messages in chat with proper UI messages
+- Treasure Chests can now only take damage from heroes (does not include illusions)
+- The middle treasure chest no longer drops T5 neutrals
+- Boots can now be placed into the neutral slot
+- Outposts now give experience to each player every minute based on how many captured outposts they have
+- Reworked how lifesteal works (removed Satanic and Vladimir): Heals for a flat amount + your current level
+- Players now gain an additional skill point every 5 levels (except at level 5)
+- Added new T5 neutral "Shadow of Vengeance"
+- Added new T4 neutral "Witchbane"
+- Edible Aegis duration is now randomized starting from min. 200 sec to max. 400 sec
+
+Bug Fixes:
+- (Possibly) Fixed the game not ending upon reaching the kill count if someone leaves
+- Fixed Night Stalker's Hunter in the night shard upgrade not working on ancients
+- Fixed lifesteal/healing/regeneration reduction not being applied properly (only worked on HP regen)
+- Fixed a bug where an interaction between Counterspell and Linken's Orb would crash the game
+
+Map:
+- Created a secluded area behind the fountain for safe farming
+- Reworked the area around the top shrine (added river, bounty rune, elevated cliff, small forest)
+- Reworked the hard camps near the bottom outpost
+- Reworked the middle area by adding small camps
+- Added more details to the environment
+- Filled some of the empty areas on the map with detailed terrain/trees
+- Made the path to the bounty rune in the duel more accessible
+- Boss areas have been reworked
+
+Items:
+Linken's Orb:
+- Now has an active ability that places an Echo Shell on an ally, blocking and reflecting any targeted spells back to the caster
+- The passive is now just a simple spell block (like linken's sphere) with an independent cooldown
+
+Last Resort:
+- Added 2 armor which comes from one of the components
+
+Refusal Blade:
+- Fixed incorrect tooltip description
+
+Arcanist Armor:
+- Magic Resistance decreased from 75% > 25%
+- Reflection decreased from 50% > 20%
+
+Mirror Blade:
+- Mirrored Reality movement speed has been set to max
+
+Enlightened Mango:
+- Cost decreased from 1000 > 900
+- Fixed not being able to purchase it repeatedly
+
+Stygian Desolator:
+- Damage increased from 120 > 200
+- Armor reduction increased from 20 > 40
+
+Null Talisman:
+- Intelligence increased from 5 > 10
+- Strength/Agility increased from 2 > 5
+- Attack Speed increased from 5 > 10
+- Armor increased from 2 > 4
+
+Wraith Band:
+- Agility increased from 5 > 10
+- Strength/Intelligence increased from 2 > 5
+- Spell amp increased from 3 > 5%
+- Mana regen increased from 0.6 > 1.2
+
+Bracer:
+- Strength increased from 5 > 10
+- Agility/Intelligence increased from 2 > 5
+- Damage increased from 3 > 10
+- HP regen increased from 1 > 5
+
+Seer Stone:
+- Cast range increased from 350 > 500
+- Vision bonus increased from 350 > 500
+- Mana Regen increased from 20 > 50
+
+Force Boots:
+- Movement Speed increased from 115 > 750
+- Health regen increased from 45 > 100
+
+Fallen Sky:
+- Strength increased from 50 > 100
+- Intelligence increased from 50 > 100
+- Health regen increased from 30 > 100
+- Mana regen increased from 20 > 50
+- Cooldown decreased from 15 > 10
+
+Pirate Hat:
+- Attack Speed increased from 300 > 800
+- Cooldown decreased from 40 > 20
+
+Apex:
+- All stats increased from 100 > 300
+
+Hourglass of Chronos:
+- Rewind interval decreased from 12 10 8 > 8 7 6
+- Rewind duration scaling changed from 3.0 > 1.0 2.0 3.0
+- Butterfly Effect movement speed bonus increased from 5 6 7 > 5 10 15%
+- Rewind no longer works on certain abilities (like Shadow Realm and Shackles)
+
+Hellfire Lantern:
+- 2/3 recipe cost increased from 1250 > 6900
+
+Curse Bearer:
+- 2/3 recipe cost decreased from 8410 > 8140
+
+War Banner:
+- Added recipes to level 2 and 3
+
+Aghanim's Blessing:
+- Removed and replace by Rubick's Ruined Scepter
+
+Balance:
+Phantom Assassin:
+- Blur evasion decreased from 10 20 25 30 40 50 60% > 10 15 20 25 30 35 40%
+
+Faceless Void:
+- Chronosphere reworked to have (2) charges with (90) second recharge time
+- Chronosphere AOE size decreased from 400 > 200
+- Chronosphere duration decreased from 3.5 3.75 4.0 4.25 4.5 4.75 5.0 > 1.75 1.875 2.0 2.125 2.25 2.375 2.5
+
+Night Stalker:
+- Darkness damage decreased from 50 100 150 200 250 300 350 > 25 75 125 175 225 275 325
+
+Marci:
+- Sidekick lifesteal decreased from 35 40 45 50 55 60 65 > 30%
+
+Witch Doctor:
+- Death Ward damage decreased from 85 135 185 250 350 450 550 > 40 80 120 160 200 240 280 
+
+Crystal Maiden:
+- Arcane Aura mana regen increased from 1.5 2 2.5 3 3.5 4.5 6 > 2.0 4.0 6.0 8.0 10.0 12.0 14.0
+- Freezing Field movement slow increased from 30% > 60%
+- Freezing Field scepter frostbite delay decreased from 2.5 > 2.0
+- Freezing Field damage increased from 105 170 250 305 420 550 620 > 100 200 300 400 500 600 700
+- Freezing Field armor increased from 20 > 20 25 30 35 40 45 50
+- Freezing Field radius increased from 835 > 900
+
+Dragon Knight:
+- Elder Dragon Form duration scaling changed from 60 > 50 55 60 65 70 75 80 
+- Frost attack slow increased from -20 > -20 -40 -60 -80 -100 -120 -140
+- Frost movement slow increased from -30 > -30 -35 -40 -45 -50 -55 -60
+- Splash dragon attack increased from 50 75 100 > 100%
+- Splash dragon attack radius increased from 150 225 300 > 300
+- Corrosive breath damage increased from 20 > 20 30 40 50 60 70 80
+- Bonus movement speed increased from 25 > 25 35 45 55 60 75 85
+
+Tusk:
+- Level 25 talent walrus punch chance increased from 5 > 12%
